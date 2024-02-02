@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e79c2dbdcf2d93243ac2927812e8fb5a
+  - enabled: 1
+    path: Assets/Scenes/Replay.unity
+    guid: 75ad7d5bb30a76447845335afc8f9c08
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: fe4480a11be161a4fa5fb10a9761eecb
+  - enabled: 1
+    path: Assets/Scenes/ChSelect_online.unity
+    guid: f74a499d73d98244abfd832fcdf40445
+  - enabled: 1
+    path: Assets/Scenes/WinnerTriangle.unity
+    guid: ad989d5ff2c39274780b9cf9dc89fc01
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 2bf292035994e2a4e9920ec4eaf3d6ce
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level1.unity
+    guid: 5da67f54f6f3c0942bc181f46a4e34e8
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level2.unity
+    guid: 87bce67316ada7840803be60ccf68f4f
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level3.unity
+    guid: 35179d7d0bc30574eb31ccbfe854d952
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level4.unity
+    guid: 788818caa5fc50446ad97bb9f79eddd3
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level5.unity
+    guid: f56a8a4a01c71fa46b172dd6b8c7433e
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level6.unity
+    guid: 3512e17f192dc744388518c9f28a2e42
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level7.unity
+    guid: 6f2a8ec2696e09644a175d921aec1b26
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level8.unity
+    guid: 6618f47919b9b1c47aeb3752ecfef1c1
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level9.unity
+    guid: 6ba6d81b337e15a4894148810481ff37
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level10.unity
+    guid: 027704a41eff21840a3257ee8b5d984b
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level11.unity
+    guid: 0b157b40d3d76924ab7de7ecf5cc1e78
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level12.unity
+    guid: e8af8e53494cdc349b11afcb5dacacc7
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level13.unity
+    guid: f7949d34e5b189f4e918f5d2e6a7ab42
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level14.unity
+    guid: 0585a9d64a4520f4a9cc3b0d83c46fe2
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level15.unity
+    guid: 40e7ca92095916646a35f67b34896b72
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level16.unity
+    guid: e12c13c5b0869a644b53ffda71465683
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level17.unity
+    guid: 010af1aff2257e640b821046195563c1
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level18.unity
+    guid: 814df8174b59e9441b88759ee7444a0f
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level19.unity
+    guid: 8798bf4ccc1d294449ca62ace410ada3
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level20.unity
+    guid: a6cad872856e6e0418a9ed7b0508b963
+  - enabled: 1
+    path: Assets/Scenes/FFA/Level21.unity
+    guid: d431823d6b91e024cba1f2f9ab2f3c81
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level14.unity
+    guid: b5fc09438c2b5914295817d48d2bf707
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level15.unity
+    guid: 1bb06d0c4e8d5a040b4fa1e1a382dd1c
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level17.unity
+    guid: 4c3c728bb1dc7664590d72bc3b892fb0
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level18.unity
+    guid: f1d1499aeda4bf24d83cc7df3cf23771
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level19.unity
+    guid: 4278b51de363f014ab7f2fd65f252307
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level20.unity
+    guid: 0e96d81822c2c1d45b7d16a997005919
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level21.unity
+    guid: 11f091a9409cf404ebf3e3ba83590a97
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level22.unity
+    guid: eafcccb7e87edfb4ebbc0145ec3dc418
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level23.unity
+    guid: 96ce331644c500f4697bc881bdc2a70f
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level24.unity
+    guid: e1947d56f1d66844db857d40a6bb4c92
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level25.unity
+    guid: 4b1eb154da9caa643b99a8e8cd502691
+  - enabled: 1
+    path: Assets/Scenes/FFA/Snow/Level26.unity
+    guid: 9f46d336b4c495b4bba9641c77473576
+  - enabled: 1
+    path: Assets/Scenes/FFA/Space/Level35.unity
+    guid: bcb4c4da8fc6ee842a49968d0a4de52d
+  - enabled: 1
+    path: Assets/Scenes/FFA/Space/Level37.unity
+    guid: 0b9d629284291554aa5eaeb36af4d472
+  - enabled: 1
+    path: Assets/Scenes/FFA/Space/Level39.unity
+    guid: 47fa191d64265f34a92dbab924972845
+  - enabled: 1
+    path: Assets/Scenes/FFA/Space/Level40.unity
+    guid: 495f978de4bfdbc43a608a62ae2fe393
+  - enabled: 1
+    path: Assets/Scenes/FFA/Space/Level41.unity
+    guid: 8d107f8c13147074db53f975728d700c
+  - enabled: 1
+    path: Assets/Scenes/FFA/Space/Level42.unity
+    guid: 0d0db05dc08e70b4284be77be377f0a7
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel1.unity
+    guid: df5ff54804e518b4392e30c465a9f7d5
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel2.unity
+    guid: f1137da3125327b459b217df20ed4bc3
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel3.unity
+    guid: 398d715bdc41a0f43a01dd3092b5770c
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel4.unity
+    guid: bba59f1dbb4758a4899152aba6073afa
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel5.unity
+    guid: 952224eee6a30c9408a96d80a5b6a028
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel6.unity
+    guid: 74a1c6d91ac0bfb4aafd40c65356e0df
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel7.unity
+    guid: 3f708ae95e834f7468d6864857995502
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel8.unity
+    guid: 07b49c682f6d6594482c28430ae18670
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel9.unity
+    guid: 3f4953f2575c2f046996e02a42e36f6d
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel10.unity
+    guid: 3657d34dbf9925145996120bae51f1ce
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel11.unity
+    guid: 18cb7fc36ff5dd9468a622744816ebd9
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel12.unity
+    guid: bdac987f09248c747800275f548b1534
+  - enabled: 1
+    path: Assets/Scenes/2v2/TLevel13.unity
+    guid: cac7c8c5e3a78634a9d046b67904601e
+  - enabled: 1
+    path: Assets/Scenes/2v2/Snow/Level21.unity
+    guid: a49f87ed79f53204c9c2ae746383eb36
+  - enabled: 1
+    path: Assets/Scenes/2v2/Snow/Level22.unity
+    guid: 75c7783142f6e7b4f81791a1f6133c21
+  - enabled: 1
+    path: Assets/Scenes/2v2/Snow/Level23.unity
+    guid: d4aa712d92915184cab6f01eec831e02
+  - enabled: 1
+    path: Assets/Scenes/2v2/Snow/Level24.unity
+    guid: 489bbe9a572ea474ebce28aa4a929c12
+  - enabled: 1
+    path: Assets/Scenes/2v2/Snow/Level26.unity
+    guid: b81f0bc9d30f7d44696e4fd1b5453609
+  - enabled: 1
+    path: Assets/Scenes/2v2/Snow/Level27.unity
+    guid: 86dc968763d5e5c47aafc012c6d7edbc
+  - enabled: 1
+    path: Assets/Scenes/2v2/Space/Level28.unity
+    guid: c9984cf4835a17d4d99498c112831119
+  - enabled: 1
+    path: Assets/Scenes/2v2/Space/Level29.unity
+    guid: 92d15a783422a334abc36e9c474fa758
+  - enabled: 1
+    path: Assets/Scenes/2v2/Space/Level32.unity
+    guid: e814f84bda4c33b47a51697101582941
+  - enabled: 1
+    path: Assets/Scenes/2v2/Space/Level34.unity
+    guid: 1eba16eea3ec8d841971eb4e0d760c72
+  m_configObjects: {}

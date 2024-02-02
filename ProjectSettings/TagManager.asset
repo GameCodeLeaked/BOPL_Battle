@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - projectile
+  - effect
+  - relfectionCamera
+  - PlayerList
+  - SlimeTrailCamera
+  - SlimeTrailBlob
+  - XGunCylinderB
+  - ShakableCamera
+  - explosion
+  - muzzleFlash
+  - Ability
+  - PlayerSprite
+  - AbilityIndicator
+  - AimingCircle
+  - Eye
+  - AbilityAnimation
+  - CameraWeight
+  - PlayerSpawn
+  - motionBlurCamera
+  - waterKillZone
+  - winnerCelebration
+  - winnerTriangleCanvas
+  - waves
+  - item
+  - abilityList
+  - shockwave
+  - slimeSplash
+  - ResetAbility
+  - sparkNode
+  - ChainLightning
+  - InvincibilityZone
+  - ResizablePlatform
+  - boulder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Projectile
+  - item
+  - wall
+  - effect
+  - weapon
+  - reflectable
+  - SlimeTrail
+  - LethalTerrain
+  - WaveParticle
+  - Explosion
+  - EffectorZone
+  - Sky
+  - NonLethalTerrain
+  - Smoke
+  - RigidBodyAffector
+  - Rope
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 683316237
+    locked: 0
+  - name: MaskedEffect
+    uniqueID: 3485704651
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: weapon
+    uniqueID: 4263943191
+    locked: 0
+  - name: effect
+    uniqueID: 1573305219
+    locked: 0
+  - name: Player
+    uniqueID: 2470197419
+    locked: 0
+  - name: Water
+    uniqueID: 2410633265
+    locked: 0
+  - name: explosion
+    uniqueID: 834398211
+    locked: 0
+  - name: PostProcessing
+    uniqueID: 1858776405
+    locked: 0
+  - name: behind Walls Infront of everything else
+    uniqueID: 632097223
+    locked: 0
