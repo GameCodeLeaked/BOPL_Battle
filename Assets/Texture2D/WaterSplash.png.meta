@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: c6a494952bcd9f949a20b7ece2b97d87
+timeCreated: 1706851673
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: WaterSplash_0
+  - first:
+      213: 21300002
+    second: WaterSplash_1
+  - first:
+      213: 21300004
+    second: WaterSplash_2
+  - first:
+      213: 21300006
+    second: WaterSplash_3
+  - first:
+      213: 21300008
+    second: WaterSplash_4
+  - first:
+      213: 21300010
+    second: WaterSplash_5
+  - first:
+      213: 21300012
+    second: WaterSplash_6
+  - first:
+      213: 21300014
+    second: WaterSplash_7
+  - first:
+      213: 21300016
+    second: WaterSplash_8
+  - first:
+      213: 21300018
+    second: WaterSplash_9
+  - first:
+      213: 21300020
+    second: WaterSplash_10
+  - first:
+      213: 21300022
+    second: WaterSplash_11
+  - first:
+      213: 21300024
+    second: WaterSplash_12
+  - first:
+      213: 21300026
+    second: WaterSplash_13
+  - first:
+      213: 21300028
+    second: WaterSplash_14
+  - first:
+      213: 21300030
+    second: WaterSplash_15
+  - first:
+      213: 21300032
+    second: WaterSplash_16
+  - first:
+      213: 21300034
+    second: WaterSplash_17
+  - first:
+      213: 21300036
+    second: WaterSplash_18
+  - first:
+      213: 21300038
+    second: WaterSplash_19
+  - first:
+      213: 21300040
+    second: WaterSplash_20
+  - first:
+      213: 21300042
+    second: WaterSplash_21
+  - first:
+      213: 21300044
+    second: WaterSplash_22
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterSplash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4ad25c6b70486596bcc27a82567220
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1503
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0908aaaa0bf3417a9a4d48317e51556f
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1503
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd10c45d35c4f3fb559fc023c5a3391
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_3
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1503
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c671bbcbdc74455baf96708759f8153c
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_4
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1503
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2970a395554d369c3050d25aabc66c
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_5
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1503
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277969bd47db439d8b4a90dd51cc0aff
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_6
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 1503
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358e25c19b14e748b548a21c879c763
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_7
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 1503
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b88c76bbf124ceca53ea651225e14a3
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 958
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69856e67155943298681b53b90c627d7
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 958
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed09545d9dd4ac8bdb362570abf6625
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_10
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 958
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253af0291c7941459adadce176842c57
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_11
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 958
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc717732e0c44b69a5437a9ce841c8fb
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_12
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 958
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a6fd98293646fca12c4d73c5c61ad7
+      internalID: 21300024
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_13
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 958
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f01d7c64d684467b028cc26456d587b
+      internalID: 21300026
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_14
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 958
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e72924d4cc94bd393e4ab935180a907
+      internalID: 21300028
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_15
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 958
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6234848260474b31b10eeac29a9fe3f0
+      internalID: 21300030
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e3827e2f0542e284ed841fd0e2dd39
+      internalID: 21300032
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 413
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbd16e034974f24af67df30e557c5e2
+      internalID: 21300034
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 413
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86097cd855734496b7c088d0891f9817
+      internalID: 21300036
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_19
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 413
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60905bcc81645cbaac0b8ce135acd49
+      internalID: 21300038
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_20
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 413
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b763eefd821459a87304c511037866c
+      internalID: 21300040
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_21
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 413
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897c316c9136468fbdc321346e9c001b
+      internalID: 21300042
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_22
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 413
+        width: 467
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -272.5}
+        - {x: -233.5, y: 272.5}
+        - {x: 233.5, y: 272.5}
+        - {x: 233.5, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4788715648ba45b3bf8824b7a68c6848
+      internalID: 21300044
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

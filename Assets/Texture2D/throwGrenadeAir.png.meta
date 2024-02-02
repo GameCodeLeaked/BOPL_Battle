@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 4689afa8e077e1247ba57be62dab2814
+timeCreated: 1706851671
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: throwGrenadeAir_9
+  - first:
+      213: 21300002
+    second: throwGrenadeAir_2
+  - first:
+      213: 21300004
+    second: throwGrenadeAir_1
+  - first:
+      213: 21300006
+    second: throwGrenadeAir_3
+  - first:
+      213: 21300008
+    second: throwGrenadeAir_6
+  - first:
+      213: 21300010
+    second: throwGrenadeAir_8
+  - first:
+      213: 21300012
+    second: throwGrenadeAir_5
+  - first:
+      213: 21300014
+    second: throwGrenadeAir_4
+  - first:
+      213: 21300016
+    second: throwGrenadeAir_7
+  - first:
+      213: 21300018
+    second: throwGrenadeAir_0
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: throwGrenadeAir_9
+      rect:
+        serializedVersion: 2
+        x: 316.0761
+        y: 402.0761
+        width: 153.8477
+        height: 139.8971
+      alignment: 9
+      pivot: {x: 0.4317508, y: 0.5141199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.99998, y: -56.02467}
+        - {x: -76.99998, y: -40.02467}
+        - {x: -76.99998, y: -3.024673}
+        - {x: -67.99998, y: 15.97533}
+        - {x: -58.99998, y: 32.97533}
+        - {x: -34.99998, y: 69.97533}
+        - {x: 32.00002, y: 69.97533}
+        - {x: 77.00002, y: 56.97533}
+        - {x: 77.00002, y: -46.02467}
+        - {x: 36.00002, y: -70.02467}
+        - {x: -36.99998, y: -70.02467}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c45fb86df479aa8f036c749b28ade
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeAir_2
+      rect:
+        serializedVersion: 2
+        x: 552.0267
+        y: 842.0761
+        width: 208.8971
+        height: 148.8477
+      alignment: 9
+      pivot: {x: 0.4091644, y: 0.4832044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.4753, y: -74.49998}
+        - {x: -104.4753, y: -64.49998}
+        - {x: -104.4753, y: 6.500015}
+        - {x: -89.4753, y: 50.50002}
+        - {x: -57.4753, y: 72.50002}
+        - {x: -48.4753, y: 74.50002}
+        - {x: 50.5247, y: 74.50002}
+        - {x: 85.5247, y: 50.50002}
+        - {x: 88.5247, y: 52.50002}
+        - {x: 91.5247, y: 52.50002}
+        - {x: 92.5247, y: 49.50002}
+        - {x: 90.5247, y: 47.50002}
+        - {x: 96.5247, y: 42.50002}
+        - {x: 96.5247, y: -14.49998}
+        - {x: 60.5247, y: -65.49998}
+        - {x: 35.5247, y: -74.49998}
+      - - {x: 94.5247, y: 48.50002}
+        - {x: 92.5247, y: 50.50002}
+        - {x: 92.5247, y: 52.50002}
+        - {x: 94.5247, y: 54.50002}
+        - {x: 101.5247, y: 54.50002}
+        - {x: 104.5247, y: 51.50002}
+        - {x: 104.5247, y: 50.50002}
+        - {x: 102.5247, y: 48.50002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5220389cd5463ca7d6d83b299a1374
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeAir_1
+      rect:
+        serializedVersion: 2
+        x: 296.0363
+        y: 843.0761
+        width: 186.8876
+        height: 144.8477
+      alignment: 9
+      pivot: {x: 0.4626509, y: 0.4896444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.48008, y: -72.49998}
+        - {x: -93.48008, y: -50.49998}
+        - {x: -93.48008, y: 15.50002}
+        - {x: -79.48008, y: 69.50002}
+        - {x: -56.48008, y: 72.50002}
+        - {x: 93.51992, y: 72.50002}
+        - {x: 93.51992, y: -22.49998}
+        - {x: 52.51992, y: -70.49998}
+        - {x: 48.51992, y: -72.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e545172a630481d98d29ac3d2afe7d2
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeAir_3
+      rect:
+        serializedVersion: 2
+        x: 783.0513
+        y: 842.0761
+        width: 208.8946
+        height: 146.8477
+      alignment: 9
+      pivot: {x: 0.5239422, y: 0.4897854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.50139, y: 73.50002}
+        - {x: 104.5014, y: 55.50002}
+        - {x: 104.5014, y: -32.49998}
+        - {x: 60.50139, y: -73.49998}
+        - {x: -28.49861, y: -73.49998}
+        - {x: -32.49861, y: -72.49998}
+        - {x: -74.49861, y: -37.49998}
+        - {x: -104.4986, y: 1.500015}
+        - {x: -104.4986, y: 23.50002}
+        - {x: -94.49861, y: 35.50002}
+        - {x: -34.49861, y: 73.50002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ade065acb0d4730844bbf02ae8676c6
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeAir_6
+      rect:
+        serializedVersion: 2
+        x: 563.0129
+        y: 634.0129
+        width: 182.9603
+        height: 140.9742
+      alignment: 9
+      pivot: {x: 0.4071213, y: 0.4255181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.50689, y: -70.50003}
+        - {x: -91.49311, y: -70.50003}
+        - {x: -91.49311, y: 52.49997}
+        - {x: -87.49311, y: 70.49997}
+        - {x: 41.50689, y: 70.49997}
+        - {x: 91.50689, y: 52.49997}
+        - {x: 91.50689, y: -47.50003}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c724a4e63474a04b576499cb935705e
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeAir_8
+      rect:
+        serializedVersion: 2
+        x: 59.07612
+        y: 409.0689
+        width: 165.8477
+        height: 139.8549
+      alignment: 9
+      pivot: {x: 0.4125704, y: 0.4642744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -69.99641}
+        - {x: -83, y: -37.99641}
+        - {x: -83, y: 21.00359}
+        - {x: -82, y: 25.00359}
+        - {x: -32, y: 70.00359}
+        - {x: 43, y: 70.00359}
+        - {x: 63, y: 67.00359}
+        - {x: 83, y: 14.00359}
+        - {x: 83, y: -22.99641}
+        - {x: 49, y: -62.99641}
+        - {x: 18, y: -69.99641}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e639b32454d7fbaeb3a322e44c37d
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeAir_5
+      rect:
+        serializedVersion: 2
+        x: 304.0429
+        y: 635.0664
+        width: 170.881
+        height: 135.8575
+      alignment: 9
+      pivot: {x: 0.459133, y: 0.4337898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.48339, y: 46.00484}
+        - {x: -77.48339, y: 46.00484}
+        - {x: -64.48339, y: 68.00484}
+        - {x: 53.51661, y: 68.00484}
+        - {x: 85.51661, y: 50.00484}
+        - {x: 85.51661, y: -52.99516}
+        - {x: 35.51661, y: -67.99516}
+        - {x: -67.48339, y: -67.99516}
+        - {x: -83.48339, y: -53.99516}
+        - {x: -83.48339, y: 31.00484}
+        - {x: -85.48339, y: 31.00484}
+        - {x: -85.48339, y: 37.00484}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e266888c1c5449e694aa703c4c87dada
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeAir_4
+      rect:
+        serializedVersion: 2
+        x: 33.02675
+        y: 623.0761
+        width: 198.9219
+        height: 146.8477
+      alignment: 9
+      pivot: {x: 0.4749263, y: 0.4829757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.48772, y: 11.50002}
+        - {x: -83.48772, y: 15.50002}
+        - {x: -79.48772, y: 17.50002}
+        - {x: -80.48772, y: 18.50002}
+        - {x: -80.48772, y: 21.50002}
+        - {x: -80.48772, y: 21.50002}
+        - {x: -83.48772, y: 24.50002}
+        - {x: -85.48772, y: 22.50002}
+        - {x: -89.48772, y: 16.50002}
+        - {x: -89.48772, y: 13.50002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5ccb7be4c4771b09b75458e47fd59
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeAir_7
+      rect:
+        serializedVersion: 2
+        x: 814.0598
+        y: 635.0761
+        width: 179.9135
+        height: 140.8477
+      alignment: 9
+      pivot: {x: 0.4359886, y: 0.4183517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.01652, y: -64.49998}
+        - {x: -90.01652, y: -42.49998}
+        - {x: -90.01652, y: 15.50002}
+        - {x: -82.01652, y: 40.50002}
+        - {x: -43.01652, y: 70.50002}
+        - {x: 68.98348, y: 70.50002}
+        - {x: 89.98348, y: 63.50002}
+        - {x: 89.98348, y: -21.49998}
+        - {x: 71.98348, y: -70.49998}
+        - {x: -38.01652, y: -70.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b198543f6d4be0875cf47f14c8632c
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeAir_0
+      rect:
+        serializedVersion: 2
+        x: 42.02675
+        y: 841.0761
+        width: 182.9465
+        height: 158.8477
+      alignment: 9
+      pivot: {x: 0.4672035, y: 0.4590804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -79.49998}
+        - {x: -91.5, y: -68.49998}
+        - {x: -91.5, y: 44.50002}
+        - {x: -37.5, y: 79.50002}
+        - {x: 89.5, y: 79.50002}
+        - {x: 91.5, y: 77.50002}
+        - {x: 91.5, y: -54.49998}
+        - {x: 65.5, y: -79.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307615cb2bb946f0bc5e6d6b0d219505
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

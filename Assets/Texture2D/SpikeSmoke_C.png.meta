@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: b0d78ca6136097f44821d95827676be6
+timeCreated: 1706851674
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpikeSmoke_C_0
+  - first:
+      213: 21300002
+    second: SpikeSmoke_C_1
+  - first:
+      213: 21300004
+    second: SpikeSmoke_C_2
+  - first:
+      213: 21300006
+    second: SpikeSmoke_C_3
+  - first:
+      213: 21300008
+    second: SpikeSmoke_C_4
+  - first:
+      213: 21300010
+    second: SpikeSmoke_C_5
+  - first:
+      213: 21300012
+    second: SpikeSmoke_C_6
+  - first:
+      213: 21300014
+    second: SpikeSmoke_C_7
+  - first:
+      213: 21300016
+    second: SpikeSmoke_C_8
+  - first:
+      213: 21300018
+    second: SpikeSmoke_C_9
+  - first:
+      213: 21300020
+    second: SpikeSmoke_C_10
+  - first:
+      213: 21300022
+    second: SpikeSmoke_C_11
+  - first:
+      213: 21300024
+    second: SpikeSmoke_C_12
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpikeSmoke_C_0
+      rect:
+        serializedVersion: 2
+        x: 22.07612
+        y: 782.0007
+        width: 289.881
+        height: 241.9993
+      alignment: 9
+      pivot: {x: 0.518916, y: 0.3491716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.0166, y: 120.9996}
+        - {x: 25.9834, y: 120.9996}
+        - {x: 66.9834, y: 100.9996}
+        - {x: 144.9834, y: -91.00037}
+        - {x: 144.9834, y: -105.0004}
+        - {x: 137.9834, y: -104.0004}
+        - {x: 121.9834, y: -87.00037}
+        - {x: 120.9834, y: -86.00037}
+        - {x: 119.9834, y: -88.00037}
+        - {x: 119.9834, y: -95.00037}
+        - {x: 99.9834, y: -114.0004}
+        - {x: 90.9834, y: -114.0004}
+        - {x: 81.9834, y: -108.0004}
+        - {x: 87.9834, y: -117.0004}
+        - {x: 99.9834, y: -121.0004}
+        - {x: -4.016602, y: -121.0004}
+        - {x: -87.0166, y: -110.0004}
+        - {x: -138.0166, y: -121.0004}
+        - {x: -145.0166, y: -121.0004}
+        - {x: -145.0166, y: -97.00037}
+        - {x: -116.0166, y: -21.00037}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea03f7f5c89460cad6e6f425865aa9c
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_1
+      rect:
+        serializedVersion: 2
+        x: 359.0429
+        y: 770.0429
+        width: 305.881
+        height: 253.881
+      alignment: 9
+      pivot: {x: 0.5180351, y: 0.3799303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9834, y: -77.9834}
+        - {x: -58.9834, y: -79.9834}
+        - {x: -59.9834, y: -79.9834}
+        - {x: -61.9834, y: -81.9834}
+        - {x: -64.9834, y: -81.9834}
+        - {x: -63.9834, y: -82.9834}
+        - {x: -63.9834, y: -83.9834}
+        - {x: -62.9834, y: -82.9834}
+        - {x: -60.9834, y: -82.9834}
+        - {x: -57.98339, y: -80.9834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4299d0d09904ba699f12a342f58e430
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_2
+      rect:
+        serializedVersion: 2
+        x: 704.0129
+        y: 742.0267
+        width: 312.9742
+        height: 267.8971
+      alignment: 9
+      pivot: {x: 0.5063902, y: 0.4646308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119.5, y: -112.9753}
+        - {x: 120.5, y: -111.9753}
+        - {x: 115.5, y: -112.9753}
+        - {x: 109.5, y: -109.9753}
+        - {x: 106.5, y: -109.9753}
+        - {x: 103.5, y: -107.9753}
+        - {x: 97.49997, y: -104.9753}
+        - {x: 90.49997, y: -94.9753}
+        - {x: 89.49997, y: -92.9753}
+        - {x: 88.49997, y: -91.9753}
+        - {x: 86.49997, y: -93.9753}
+        - {x: 86.49997, y: -95.9753}
+        - {x: 83.49997, y: -98.9753}
+        - {x: 82.49997, y: -97.9753}
+        - {x: 82.49997, y: -105.9753}
+        - {x: 83.49997, y: -106.9753}
+        - {x: 83.49997, y: -108.9753}
+        - {x: 86.49997, y: -110.9753}
+        - {x: 86.49997, y: -111.9753}
+        - {x: 89.49997, y: -108.9753}
+        - {x: 90.49997, y: -108.9753}
+        - {x: 94.49997, y: -111.9753}
+        - {x: 96.49997, y: -116.9753}
+        - {x: 93.49997, y: -119.9753}
+        - {x: 95.49997, y: -120.9753}
+        - {x: 96.49997, y: -120.9753}
+        - {x: 98.49997, y: -118.9753}
+        - {x: 105.5, y: -118.9753}
+        - {x: 110.5, y: -115.9753}
+        - {x: 114.5, y: -114.9753}
+        - {x: 116.5, y: -112.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaefddb1ddf4b37be9082c82faadde1
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_3
+      rect:
+        serializedVersion: 2
+        x: 1050.064
+        y: 742.0056
+        width: 309.86
+        height: 265.9515
+      alignment: 9
+      pivot: {x: 0.5080881, y: 0.4681095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -149.9938, y: -132.9813}
+        - {x: -154.9938, y: -121.9813}
+        - {x: -154.9938, y: -30.98132}
+        - {x: -144.9938, y: -17.98132}
+        - {x: -84.99384, y: 130.0187}
+        - {x: -67.99384, y: 133.0187}
+        - {x: 75.00616, y: 133.0187}
+        - {x: 151.0062, y: 21.01868}
+        - {x: 155.0062, y: 6.018677}
+        - {x: 155.0062, y: -132.9813}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515efb79faad44c59e2d6280f0b6cb86
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_4
+      rect:
+        serializedVersion: 2
+        x: 1386.027
+        y: 734.0267
+        width: 322.937
+        height: 270.8971
+      alignment: 9
+      pivot: {x: 0.5154977, y: 0.4890169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144.5048, y: -135.4753}
+        - {x: -161.4952, y: -135.4753}
+        - {x: -161.4952, y: 11.5247}
+        - {x: -77.49521, y: 135.5247}
+        - {x: 54.50479, y: 135.5247}
+        - {x: 143.5048, y: 84.5247}
+        - {x: 161.5048, y: 19.5247}
+        - {x: 161.5048, y: -117.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04f0fbe94b841aa8aae023d2379c636
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_5
+      rect:
+        serializedVersion: 2
+        x: 3.036285
+        y: 404.0363
+        width: 325.9508
+        height: 283.8876
+      alignment: 9
+      pivot: {x: 0.5199058, y: 0.519444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 161.9883, y: 14.01991}
+        - {x: 161.9883, y: -89.98009}
+        - {x: 162.9883, y: -92.98009}
+        - {x: 161.9883, y: -93.98009}
+        - {x: 161.9883, y: -125.9801}
+        - {x: 147.9883, y: -141.9801}
+        - {x: -141.0117, y: -141.9801}
+        - {x: -163.0117, y: -105.9801}
+        - {x: -163.0117, y: -36.98009}
+        - {x: -151.0117, y: 25.01991}
+        - {x: -38.01169, y: 142.0199}
+        - {x: 91.98831, y: 142.0199}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceece6f46bc487b9d1bd4b510d6896b
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_6
+      rect:
+        serializedVersion: 2
+        x: 348.0268
+        y: 405.0513
+        width: 327.8971
+        height: 281.8726
+      alignment: 9
+      pivot: {x: 0.5168488, y: 0.5195563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164.0247, y: -140.9876}
+        - {x: -163.9753, y: -140.9876}
+        - {x: -163.9753, y: 66.01239}
+        - {x: -159.9753, y: 85.01239}
+        - {x: -69.97533, y: 141.0124}
+        - {x: 107.0247, y: 141.0124}
+        - {x: 164.0247, y: 29.01239}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0e93a293504e459a8d7ca3290ade3b
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_7
+      rect:
+        serializedVersion: 2
+        x: 694.0761
+        y: 404.0761
+        width: 328.8478
+        height: 281.8478
+      alignment: 9
+      pivot: {x: 0.5121637, y: 0.5230621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163.5, y: -141}
+        - {x: -164.5, y: -140}
+        - {x: -164.5, y: 23}
+        - {x: -109.5, y: 141}
+        - {x: 104.5, y: 141}
+        - {x: 164.5, y: 95}
+        - {x: 164.5, y: -130}
+        - {x: 144.5, y: -141}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c9b3d6fc1c417a91cac1580f4e5415
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_8
+      rect:
+        serializedVersion: 2
+        x: 1035.027
+        y: 402.0429
+        width: 337.9064
+        height: 282.881
+      alignment: 9
+      pivot: {x: 0.5104173, y: 0.5283391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169.0201, y: -141.4834}
+        - {x: -168.9799, y: -141.4834}
+        - {x: -168.9799, y: 55.5166}
+        - {x: -87.97992, y: 141.5166}
+        - {x: 76.02008, y: 141.5166}
+        - {x: 169.0201, y: 98.5166}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b7150ac55a42f5b82da5471ca5d0fd
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_9
+      rect:
+        serializedVersion: 2
+        x: 1380.027
+        y: 400.0761
+        width: 339.9603
+        height: 283.8478
+      alignment: 9
+      pivot: {x: 0.5073335, y: 0.5334687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.0069, y: -142}
+        - {x: -170.0069, y: -115}
+        - {x: -170.0069, y: 14}
+        - {x: -133.0069, y: 142}
+        - {x: 136.9931, y: 142}
+        - {x: 169.9931, y: 134}
+        - {x: 169.9931, y: -122}
+        - {x: 150.9931, y: -142}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999e4b048b84b27b48cd0520e096b13
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79.07612
+        width: 341.9732
+        height: 289.8971
+      alignment: 9
+      pivot: {x: 0.5044255, y: 0.5430337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169.0134, y: -145.0247}
+        - {x: -170.9866, y: -145.0247}
+        - {x: -170.9866, y: 53.97533}
+        - {x: -78.9866, y: 144.9753}
+        - {x: 128.0134, y: 144.9753}
+        - {x: 171.0134, y: 118.9753}
+        - {x: 171.0134, y: -131.0247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e522a53db3184521bdebffccb7ce375b
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 79
+        width: 345
+        height: 287.9637
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5469439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -155.5, y: -143.9819}
+        - {x: -172.5, y: -129.9819}
+        - {x: -172.5, y: 49.01814}
+        - {x: -107.5, y: 144.0181}
+        - {x: 95.5, y: 144.0181}
+        - {x: 172.5, y: 110.0181}
+        - {x: 172.5, y: -143.9819}
+        - {x: -10.5, y: -143.9819}
+        - {x: -73.5, y: -135.9819}
+        - {x: -114.5, y: -143.9819}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99286111d03440788928032c0b611110
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeSmoke_C_12
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 79
+        width: 345
+        height: 286.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5489261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 172.5, y: -143.4619}
+        - {x: -172.5, y: -143.4619}
+        - {x: -172.5, y: 88.53806}
+        - {x: -70.5, y: 143.5381}
+        - {x: 123.5, y: 143.5381}
+        - {x: 172.5, y: 75.53806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49743fbd934efe8da7bc1c5fee7353
+      internalID: 21300024
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

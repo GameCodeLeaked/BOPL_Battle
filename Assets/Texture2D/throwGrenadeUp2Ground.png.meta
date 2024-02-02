@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 47a4b613f6c89b34d924020715535390
+timeCreated: 1706851673
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: throwGrenadeUp2Ground_2
+  - first:
+      213: 21300002
+    second: throwGrenadeUp2Ground_3
+  - first:
+      213: 21300004
+    second: throwGrenadeUp2Ground_4
+  - first:
+      213: 21300006
+    second: throwGrenadeUp2Ground_5
+  - first:
+      213: 21300008
+    second: throwGrenadeUp2Ground_6
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: throwGrenadeUp2Ground_2
+      rect:
+        serializedVersion: 2
+        x: 557.0761
+        y: 331.0268
+        width: 195.8876
+        height: 138.8971
+      alignment: 9
+      pivot: {x: 0.4105614, y: 0.510977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.98009, y: -23.47533}
+        - {x: 91.98009, y: -21.47533}
+        - {x: 91.98009, y: -69.47533}
+        - {x: -98.01991, y: -69.47533}
+        - {x: -98.01991, y: 34.52467}
+        - {x: -65.01991, y: 69.52467}
+        - {x: 35.98009, y: 69.52467}
+        - {x: 91.98009, y: 43.52467}
+        - {x: 91.98009, y: -16.47533}
+        - {x: 93.98009, y: -14.47533}
+        - {x: 94.98009, y: -14.47533}
+        - {x: 97.98009, y: -17.47533}
+        - {x: 96.98009, y: -22.47533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f976c98bfcdb49f5b117a7842980b860
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeUp2Ground_3
+      rect:
+        serializedVersion: 2
+        x: 812.0761
+        y: 330.0268
+        width: 193.8608
+        height: 140.8971
+      alignment: 9
+      pivot: {x: 0.4148538, y: 0.5108212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.00652, y: -70.47533}
+        - {x: -97.00652, y: -64.47533}
+        - {x: -97.00652, y: 44.52467}
+        - {x: -78.00652, y: 70.52467}
+        - {x: 58.99348, y: 70.52467}
+        - {x: 96.99348, y: 26.52467}
+        - {x: 96.99348, y: -52.47533}
+        - {x: 66.99348, y: -70.47533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181bc7f0242343e3b49af6012ff1d5d9
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeUp2Ground_4
+      rect:
+        serializedVersion: 2
+        x: 46.01291
+        y: 111.0429
+        width: 186.9603
+        height: 144.881
+      alignment: 9
+      pivot: {x: 0.4358523, y: 0.4897613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.49308, y: -72.48339}
+        - {x: -90.49308, y: -43.48339}
+        - {x: -91.49308, y: -43.48339}
+        - {x: -93.49308, y: -40.48339}
+        - {x: -91.49308, y: -38.48339}
+        - {x: -91.49308, y: -38.48339}
+        - {x: -93.49308, y: -25.48339}
+        - {x: -93.49308, y: 19.51661}
+        - {x: -76.49308, y: 65.51661}
+        - {x: -41.49308, y: 72.51661}
+        - {x: 49.50692, y: 72.51661}
+        - {x: 82.50692, y: 32.51661}
+        - {x: 93.50692, y: 7.516609}
+        - {x: 93.50692, y: -38.48339}
+        - {x: 67.50692, y: -72.48339}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb06629fef46466fb803f55b2a4b0220
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeUp2Ground_5
+      rect:
+        serializedVersion: 2
+        x: 311.0646
+        y: 112.0363
+        width: 156.9225
+        height: 159.9508
+      alignment: 9
+      pivot: {x: 0.4552272, y: 0.4374077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.52586, y: 79.98831}
+        - {x: 57.47414, y: 79.98831}
+        - {x: 57.47414, y: 78.98831}
+        - {x: 59.47414, y: 79.98831}
+        - {x: 61.47414, y: 77.98831}
+        - {x: 61.47414, y: 74.98831}
+        - {x: 60.47414, y: 74.98831}
+        - {x: 78.47414, y: 45.98831}
+        - {x: 78.47414, y: -67.01169}
+        - {x: 74.47414, y: -80.01169}
+        - {x: -78.52586, y: -80.01169}
+        - {x: -78.52586, y: 48.98831}
+        - {x: -43.52586, y: 76.98831}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425281da5bba47f4a743b3cb5421df42
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throwGrenadeUp2Ground_6
+      rect:
+        serializedVersion: 2
+        x: 566.0267
+        y: 112.0513
+        width: 156.9191
+        height: 154.8726
+      alignment: 9
+      pivot: {x: 0.4554784, y: 0.4516532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.4863, y: -0.4875946}
+        - {x: -73.4863, y: -2.487595}
+        - {x: -73.4863, y: 54.51241}
+        - {x: -31.4863, y: 77.51241}
+        - {x: 61.5137, y: 77.51241}
+        - {x: 78.5137, y: 43.51241}
+        - {x: 78.5137, y: -54.48759}
+        - {x: 75.5137, y: -67.48759}
+        - {x: 34.5137, y: -77.48759}
+        - {x: -73.4863, y: -77.48759}
+        - {x: -73.4863, y: -13.48759}
+        - {x: -74.4863, y: -14.48759}
+        - {x: -76.4863, y: -14.48759}
+        - {x: -78.4863, y: -12.48759}
+        - {x: -78.4863, y: -1.487595}
+        - {x: -77.4863, y: -0.4875946}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd41ac222be4d98acd02a87b0e17326
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
