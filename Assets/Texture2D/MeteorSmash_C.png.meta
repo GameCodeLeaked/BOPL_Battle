@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 08a87edb86d9d54448b00e8e6ba7c930
+timeCreated: 1706851673
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: MeteorSmash_C_10
+  - first:
+      213: 21300002
+    second: MeteorSmash_C_2
+  - first:
+      213: 21300004
+    second: MeteorSmash_C_9
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeteorSmash_C_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 250
+        width: 239
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119.5, y: -129}
+        - {x: -119.5, y: -129}
+        - {x: -119.5, y: 129}
+        - {x: 119.5, y: 129}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91de8816515745cc80b3f2c7f24fc3eb
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorSmash_C_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 766
+        width: 139
+        height: 258
+      alignment: 9
+      pivot: {x: 0.4643916, y: 0.7532034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.49998, y: -129}
+        - {x: -69.49998, y: -69}
+        - {x: -69.49998, y: 102}
+        - {x: -28.49998, y: 129}
+        - {x: 40.50002, y: 129}
+        - {x: 69.50002, y: 85}
+        - {x: 69.50002, y: -5}
+        - {x: 28.50002, y: -125}
+        - {x: 23.50002, y: -129}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf656744c84b01a4f9fd0cc1186cc0
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorSmash_C_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 364
+        width: 163
+        height: 144
+      alignment: 9
+      pivot: {x: 0.4757695, y: 0.5578228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.49998, y: -72}
+        - {x: -81.49998, y: -27}
+        - {x: -81.49998, y: 44}
+        - {x: -51.49998, y: 72}
+        - {x: 40.50002, y: 72}
+        - {x: 73.50002, y: 53}
+        - {x: 81.50002, y: -18}
+        - {x: 60.50002, y: -71}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf292af43ae4b40af0042ad3b1add0d
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: a602d34b237fe9f48a19b1cf8eedee1e
+timeCreated: 1706851671
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: FireRemoteRocket_3
+  - first:
+      213: 21300002
+    second: FireRemoteRocket_9
+  - first:
+      213: 21300004
+    second: FireRemoteRocket_1
+  - first:
+      213: 21300006
+    second: FireRemoteRocket_4
+  - first:
+      213: 21300008
+    second: FireRemoteRocket_7
+  - first:
+      213: 21300010
+    second: FireRemoteRocket_6
+  - first:
+      213: 21300012
+    second: FireRemoteRocket_5
+  - first:
+      213: 21300014
+    second: FireRemoteRocket_8
+  - first:
+      213: 21300016
+    second: FireRemoteRocket_0
+  - first:
+      213: 21300018
+    second: FireRemoteRocket_10
+  - first:
+      213: 21300020
+    second: FireRemoteRocket_2
+  - first:
+      213: 21300022
+    second: FireRemoteRocket_11
+  - first:
+      213: 21300024
+    second: FireRemoteRocket_12
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireRemoteRocket_3
+      rect:
+        serializedVersion: 2
+        x: 748.0267
+        y: 799.0761
+        width: 161.9465
+        height: 87.84776
+      alignment: 9
+      pivot: {x: 0.539635, y: 0.7201622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.00002, y: -44}
+        - {x: -81.00002, y: -35}
+        - {x: -81.00002, y: 16}
+        - {x: -48.00002, y: 44}
+        - {x: 58.99998, y: 44}
+        - {x: 80.99998, y: 24}
+        - {x: 80.99998, y: -30}
+        - {x: 73.99998, y: -44}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318226d46a9a4ff28a467113e957cb0a
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_9
+      rect:
+        serializedVersion: 2
+        x: 282.0761
+        y: 349.0761
+        width: 168.8477
+        height: 123.8478
+      alignment: 9
+      pivot: {x: 0.4817514, y: 0.494677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.49998, y: -62}
+        - {x: -84.49998, y: -52}
+        - {x: -84.49998, y: -36}
+        - {x: -71.49998, y: 31}
+        - {x: -34.49998, y: 62}
+        - {x: 53.50002, y: 62}
+        - {x: 84.50002, y: 49}
+        - {x: 84.50002, y: -29}
+        - {x: 68.50002, y: -62}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256a19e9736b4f41b0097043d2cb49f5
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_1
+      rect:
+        serializedVersion: 2
+        x: 261.0268
+        y: 799.0761
+        width: 194.8971
+        height: 135.8477
+      alignment: 9
+      pivot: {x: 0.5253642, y: 0.4657025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.47532, y: -67.99999}
+        - {x: -97.47532, y: -55.99999}
+        - {x: -97.47532, y: -17.99999}
+        - {x: -63.47532, y: 68.00001}
+        - {x: 74.52468, y: 68.00001}
+        - {x: 97.52468, y: 19.00001}
+        - {x: 97.52468, y: -41.99999}
+        - {x: 81.52468, y: -67.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0552d64cf64a52a1567a8f27a95c26
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_4
+      rect:
+        serializedVersion: 2
+        x: 46.02675
+        y: 574.0267
+        width: 160.9465
+        height: 109.8971
+      alignment: 9
+      pivot: {x: 0.5057083, y: 0.5670213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.50002, y: -54.97531}
+        - {x: -80.50002, y: -50.97531}
+        - {x: -80.50002, y: 55.02469}
+        - {x: 80.49998, y: 55.02469}
+        - {x: 80.49998, y: -18.97531}
+        - {x: 72.49998, y: -54.97531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4fb6de50ca4bcc9d96ed8e64235dd9
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_7
+      rect:
+        serializedVersion: 2
+        x: 753.0429
+        y: 574.0267
+        width: 168.881
+        height: 126.8971
+      alignment: 9
+      pivot: {x: 0.4877745, y: 0.4910593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.48341, y: -63.4753}
+        - {x: -84.48341, y: -53.4753}
+        - {x: -84.48341, y: -16.4753}
+        - {x: -65.48341, y: 30.52469}
+        - {x: -12.48341, y: 63.5247}
+        - {x: 51.51659, y: 63.5247}
+        - {x: 84.51659, y: 40.5247}
+        - {x: 84.51659, y: -39.4753}
+        - {x: 45.51659, y: -63.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0321e259ddc8445996e8770bedfee0d8
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_6
+      rect:
+        serializedVersion: 2
+        x: 518.0267
+        y: 574.0761
+        width: 164.9102
+        height: 122.8478
+      alignment: 9
+      pivot: {x: 0.4935535, y: 0.5068439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.48185, y: -61.5}
+        - {x: -82.48185, y: -58.5}
+        - {x: -82.48185, y: 29.5}
+        - {x: -30.48185, y: 61.5}
+        - {x: 66.51815, y: 61.5}
+        - {x: 70.51815, y: 60.5}
+        - {x: 82.51815, y: 44.5}
+        - {x: 82.51815, y: -43.5}
+        - {x: 40.51815, y: -61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba81d64bdb274a62a5399bbe7d5dfd2d
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_5
+      rect:
+        serializedVersion: 2
+        x: 280.0268
+        y: 572.0541
+        width: 166.8971
+        height: 122.933
+      alignment: 9
+      pivot: {x: 0.4996609, y: 0.5229404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.47532, y: -61.52063}
+        - {x: -83.47532, y: -51.52063}
+        - {x: -83.47532, y: 22.47937}
+        - {x: -51.47532, y: 61.47937}
+        - {x: 35.52468, y: 61.47937}
+        - {x: 83.52468, y: 39.47937}
+        - {x: 83.52468, y: -41.52063}
+        - {x: 43.52468, y: -61.52063}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d46d421c9941f59ed063ceb0486ed5
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_8
+      rect:
+        serializedVersion: 2
+        x: 47.02675
+        y: 348.0761
+        width: 174.8971
+        height: 124.911
+      alignment: 9
+      pivot: {x: 0.459653, y: 0.4984722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.52468, y: -62.5316}
+        - {x: -87.47532, y: -62.5316}
+        - {x: -87.47532, y: -10.5316}
+        - {x: -62.47532, y: 62.4684}
+        - {x: 63.52468, y: 62.4684}
+        - {x: 87.52468, y: 51.4684}
+        - {x: 87.52468, y: -47.5316}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71f933c1aae4502af699d35b69fe2bc
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_0
+      rect:
+        serializedVersion: 2
+        x: 54.07612
+        y: 798
+        width: 181.9239
+        height: 159.9733
+      alignment: 9
+      pivot: {x: 0.4031501, y: 0.4021969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.03806, y: 80.01337}
+        - {x: 19.96194, y: 80.01337}
+        - {x: 45.96195, y: 80.01337}
+        - {x: 52.96194, y: 80.01337}
+        - {x: 90.96194, y: 68.01337}
+        - {x: 90.96194, y: 58.01337}
+        - {x: 87.96194, y: 58.01337}
+        - {x: 55.96194, y: 65.01337}
+        - {x: 55.96194, y: 65.01337}
+        - {x: 55.96194, y: -51.98663}
+        - {x: 42.96194, y: -79.98663}
+        - {x: -91.03806, y: -79.98663}
+        - {x: -91.03806, y: 28.01337}
+        - {x: -84.03806, y: 75.01337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a4f6e9c3b34d95823750d0d4cd22c7
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_10
+      rect:
+        serializedVersion: 2
+        x: 514.0761
+        y: 348.0761
+        width: 164.8629
+        height: 121.8478
+      alignment: 9
+      pivot: {x: 0.5176583, y: 0.5110036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.49243, y: -61}
+        - {x: -82.50757, y: -61}
+        - {x: -82.50757, y: 36}
+        - {x: -57.50757, y: 58}
+        - {x: -48.50757, y: 61}
+        - {x: 65.49243, y: 61}
+        - {x: 82.49243, y: 29}
+        - {x: 82.49243, y: -60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7a1111cf714547bf83559ce0144f9a
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_2
+      rect:
+        serializedVersion: 2
+        x: 520.0267
+        y: 799.0267
+        width: 148.9102
+        height: 224.9733
+      alignment: 9
+      pivot: {x: 0.5331537, y: 0.2814291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.51816, y: -112.5134}
+        - {x: -74.48184, y: -112.5134}
+        - {x: -74.48184, y: -25.51337}
+        - {x: -43.48184, y: 88.48663}
+        - {x: -21.48184, y: 112.4866}
+        - {x: 39.51816, y: 112.4866}
+        - {x: 55.51816, y: 106.4866}
+        - {x: 74.51816, y: -9.513371}
+        - {x: 74.51816, y: -81.51337}
+        - {x: 66.51816, y: -108.5134}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17619faeb0564f08b8236bf4445d0837
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_11
+      rect:
+        serializedVersion: 2
+        x: 746.0761
+        y: 348.0268
+        width: 161.8477
+        height: 127.8971
+      alignment: 9
+      pivot: {x: 0.5520165, y: 0.4872196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.00001, y: -52.97533}
+        - {x: -81.00001, y: -17.97533}
+        - {x: -81.00001, y: 24.02467}
+        - {x: -46.00001, y: 64.02467}
+        - {x: 39.99999, y: 64.02467}
+        - {x: 75.99999, y: 34.02467}
+        - {x: 80.99999, y: 21.02467}
+        - {x: 80.99999, y: -35.97533}
+        - {x: 68.99999, y: -63.97533}
+        - {x: -54, y: -63.97533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a9dd54f9f242b6933b5d817b7be3da
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRemoteRocket_12
+      rect:
+        serializedVersion: 2
+        x: 32.07612
+        y: 124.0761
+        width: 163.8477
+        height: 129.8477
+      alignment: 9
+      pivot: {x: 0.5818977, y: 0.4641177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.99999, y: -65}
+        - {x: -81.99999, y: -60}
+        - {x: -81.99999, y: 51}
+        - {x: -38.99999, y: 64}
+        - {x: -31.99999, y: 65}
+        - {x: 16.00001, y: 65}
+        - {x: 47.00001, y: 56}
+        - {x: 82.00001, y: 33}
+        - {x: 82.00001, y: -65}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d991779369854d7a882ce2aad781e8af
+      internalID: 21300024
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

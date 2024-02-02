@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 0d157f3fd587c83469a329aa31dbe38f
+timeCreated: 1706851672
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PlaceObject_0
+  - first:
+      213: 21300002
+    second: PlaceObject_1
+  - first:
+      213: 21300004
+    second: PlaceObject_2
+  - first:
+      213: 21300006
+    second: PlaceObject_3
+  - first:
+      213: 21300008
+    second: PlaceObject_4
+  - first:
+      213: 21300010
+    second: PlaceObject_5
+  - first:
+      213: 21300012
+    second: PlaceObject_6
+  - first:
+      213: 21300014
+    second: PlaceObject_8
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlaceObject_0
+      rect:
+        serializedVersion: 2
+        x: 5.07612
+        y: 358
+        width: 167.8971
+        height: 121.9239
+      alignment: 9
+      pivot: {x: 0.5081617, y: 0.5052333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.02467, y: -60.96194}
+        - {x: -84.02467, y: -22.96194}
+        - {x: -84.02467, y: 30.03806}
+        - {x: -50.02467, y: 61.03806}
+        - {x: 44.97533, y: 61.03806}
+        - {x: 83.97533, y: 46.03806}
+        - {x: 83.97533, y: -60.96194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f7c0832f3c4af5a5aae4f3b2867793
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceObject_1
+      rect:
+        serializedVersion: 2
+        x: 187.0761
+        y: 358.0761
+        width: 170.9239
+        height: 120.7745
+      alignment: 9
+      pivot: {x: 0.4816113, y: 0.5094112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.53806, y: -60.46338}
+        - {x: -85.53806, y: 51.53662}
+        - {x: -51.53806, y: 60.53662}
+        - {x: 54.46194, y: 60.53662}
+        - {x: 85.46194, y: 23.53662}
+        - {x: 85.46194, y: -22.46338}
+        - {x: 57.46195, y: -60.46338}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158c4f6d878c4c5eb3a6a2b2f83a9d95
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceObject_2
+      rect:
+        serializedVersion: 2
+        x: 358.0129
+        y: 359.0268
+        width: 167.911
+        height: 142.9603
+      alignment: 9
+      pivot: {x: 0.5382739, y: 0.4237066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.96838, y: 66.49306}
+        - {x: -83.96838, y: 69.49306}
+        - {x: -81.96838, y: 71.49306}
+        - {x: -78.96838, y: 70.49306}
+        - {x: -78.96838, y: 67.49306}
+      - - {x: -56.96838, y: 61.49306}
+        - {x: -57.96838, y: 63.49306}
+        - {x: -55.96838, y: 68.49306}
+        - {x: -52.96838, y: 69.49306}
+        - {x: -49.96838, y: 66.49306}
+        - {x: -49.96838, y: 62.49306}
+        - {x: -52.96838, y: 61.49306}
+      - - {x: -62.96838, y: -71.50694}
+        - {x: -72.96838, y: -59.50694}
+        - {x: -75.96838, y: -59.50694}
+        - {x: -75.96838, y: -55.50694}
+        - {x: -80.96838, y: -49.50694}
+        - {x: -80.96838, y: 39.49306}
+        - {x: -23.96838, y: 71.49306}
+        - {x: 84.03162, y: 71.49306}
+        - {x: 84.03162, y: -67.50694}
+        - {x: 54.03162, y: -71.50694}
+      - - {x: -69.96838, y: 52.49306}
+        - {x: -72.96838, y: 55.49306}
+        - {x: -70.96838, y: 58.49306}
+        - {x: -66.96838, y: 57.49306}
+        - {x: -65.96838, y: 54.49306}
+        - {x: -67.96838, y: 52.49306}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea58362231a6457b931187e7d0fb4d16
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceObject_3
+      rect:
+        serializedVersion: 2
+        x: 546.0761
+        y: 359.0564
+        width: 155.8477
+        height: 150.9169
+      alignment: 9
+      pivot: {x: 0.5217842, y: 0.401172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -75.51482}
+        - {x: -78, y: -75.51482}
+        - {x: -78, y: 29.48519}
+        - {x: -24, y: 75.48518}
+        - {x: 59, y: 75.48518}
+        - {x: 78, y: 48.48519}
+        - {x: 78, y: -69.51482}
+        - {x: 76, y: -71.51482}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86121f6f69c4a948acee4221c4b7c2b
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceObject_4
+      rect:
+        serializedVersion: 2
+        x: 716.0129
+        y: 359.0268
+        width: 166.911
+        height: 142.9603
+      alignment: 9
+      pivot: {x: 0.5414986, y: 0.4237066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.46844, y: 66.49306}
+        - {x: -83.46844, y: 69.49306}
+        - {x: -81.46844, y: 71.49306}
+        - {x: -78.46844, y: 70.49306}
+        - {x: -78.46844, y: 67.49306}
+      - - {x: -56.46844, y: 61.49306}
+        - {x: -57.46844, y: 63.49306}
+        - {x: -55.46844, y: 68.49306}
+        - {x: -52.46844, y: 69.49306}
+        - {x: -49.46844, y: 66.49306}
+        - {x: -49.46844, y: 62.49306}
+        - {x: -52.46844, y: 61.49306}
+      - - {x: -69.46844, y: 52.49306}
+        - {x: -72.46844, y: 55.49306}
+        - {x: -70.46844, y: 58.49306}
+        - {x: -66.46844, y: 57.49306}
+        - {x: -65.46844, y: 54.49306}
+        - {x: -67.46844, y: 52.49306}
+      - - {x: -83.46844, y: -71.50694}
+        - {x: -83.46844, y: -4.506939}
+        - {x: -39.46844, y: 63.49306}
+        - {x: -17.46844, y: 71.49306}
+        - {x: 67.53156, y: 71.49306}
+        - {x: 69.53156, y: 68.49306}
+        - {x: 72.53156, y: 68.49306}
+        - {x: 79.53156, y: 65.49306}
+        - {x: 79.53156, y: 55.49306}
+        - {x: 79.53156, y: 55.49306}
+        - {x: 83.53156, y: 49.49306}
+        - {x: 83.53156, y: -71.50694}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2dea573bd4b6db0097cacdd25f375
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceObject_5
+      rect:
+        serializedVersion: 2
+        x: 14.07612
+        y: 206.0267
+        width: 164.9239
+        height: 111.9303
+      alignment: 9
+      pivot: {x: 0.4627522, y: 0.5322351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.46194, y: -55.99192}
+        - {x: -82.53806, y: -55.99192}
+        - {x: -82.53806, y: 56.00808}
+        - {x: 70.46194, y: 56.00808}
+        - {x: 82.46194, y: 14.00808}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b825ec83c5224f468f54e93eb3d69c86
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceObject_6
+      rect:
+        serializedVersion: 2
+        x: 192.0513
+        y: 206.0267
+        width: 165.9487
+        height: 109.8971
+      alignment: 9
+      pivot: {x: 0.4660699, y: 0.542082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.02565, y: -54.97532}
+        - {x: -83.02565, y: -45.97532}
+        - {x: -83.02565, y: 40.02468}
+        - {x: -79.02565, y: 55.02468}
+        - {x: 38.97435, y: 55.02468}
+        - {x: 66.97435, y: 33.02468}
+        - {x: 82.97435, y: -9.975319}
+        - {x: 82.97435, y: -48.97532}
+        - {x: 81.97435, y: -50.97532}
+        - {x: 46.97435, y: -54.97532}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae6b4ac0193448c8095d01322ffad6b
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceObject_8
+      rect:
+        serializedVersion: 2
+        x: 546.0761
+        y: 204
+        width: 169.9239
+        height: 122.9239
+      alignment: 9
+      pivot: {x: 0.4785607, y: 0.5011231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.03807, y: -56.46195}
+        - {x: -85.03807, y: -45.46195}
+        - {x: -85.03807, y: 18.53805}
+        - {x: -50.03807, y: 61.53805}
+        - {x: 57.96193, y: 61.53805}
+        - {x: 84.96193, y: 32.53805}
+        - {x: 84.96193, y: -48.46195}
+        - {x: 42.96193, y: -61.46195}
+        - {x: -68.03807, y: -61.46195}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056977764ec947a5a99086e916f305be
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 1e3716946d63fd846a8409bf0b568acc
+timeCreated: 1706851673
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: QuantumTransform_0
+  - first:
+      213: 21300002
+    second: QuantumTransform_1
+  - first:
+      213: 21300004
+    second: QuantumTransform_2
+  - first:
+      213: 21300006
+    second: QuantumTransform_3
+  - first:
+      213: 21300008
+    second: QuantumTransform_4
+  - first:
+      213: 21300010
+    second: QuantumTransform_5
+  - first:
+      213: 21300012
+    second: QuantumTransform_6
+  - first:
+      213: 21300014
+    second: QuantumTransform_7
+  - first:
+      213: 21300016
+    second: QuantumTransform_8
+  - first:
+      213: 21300018
+    second: QuantumTransform_9
+  - first:
+      213: 21300020
+    second: QuantumTransform_10
+  - first:
+      213: 21300022
+    second: QuantumTransform_11
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QuantumTransform_0
+      rect:
+        serializedVersion: 2
+        x: 186.0761
+        y: 1685.027
+        width: 116.8478
+        height: 247.8971
+      alignment: 9
+      pivot: {x: 0.4743255, y: 0.4557264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.500008, y: -123.9753}
+        - {x: -58.50001, y: -123.9753}
+        - {x: -58.50001, y: 102.0247}
+        - {x: -14.50001, y: 124.0247}
+        - {x: 42.49999, y: 124.0247}
+        - {x: 58.49999, y: 107.0247}
+        - {x: 58.49999, y: 39.0247}
+        - {x: 48.49999, y: -8.975304}
+        - {x: 12.49999, y: -95.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c6b115e6914d4a9642053013364e32
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_1
+      rect:
+        serializedVersion: 2
+        x: 688.0761
+        y: 1627.027
+        width: 82.84776
+        height: 375.9465
+      alignment: 9
+      pivot: {x: 0.4396484, y: 0.4547809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.49999, y: -188}
+        - {x: -41.49999, y: -188}
+        - {x: -41.49999, y: 120}
+        - {x: -6.499992, y: 183}
+        - {x: 5.500008, y: 188}
+        - {x: 41.50001, y: 188}
+        - {x: 41.50001, y: -49.99997}
+        - {x: 38.50001, y: -77.99997}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee04b11c8a547dfa754421aa33838ec
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_2
+      rect:
+        serializedVersion: 2
+        x: 1127.076
+        y: 1680.076
+        width: 212.8971
+        height: 250.8478
+      alignment: 9
+      pivot: {x: 0.3777591, y: 0.4701012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.52473, y: -125.5001}
+        - {x: -106.5247, y: -125.5001}
+        - {x: -106.5247, y: 90.49995}
+        - {x: -23.52473, y: 125.4999}
+        - {x: 106.4753, y: 125.4999}
+        - {x: 106.4753, y: 41.49995}
+        - {x: 92.47527, y: -35.50005}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9100233c744aca95274a700f39d744
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_3
+      rect:
+        serializedVersion: 2
+        x: 1585.027
+        y: 1710.027
+        width: 290.9304
+        height: 151.8971
+      alignment: 9
+      pivot: {x: 0.3625379, y: 0.5791634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134.4919, y: -75.9753}
+        - {x: -145.4919, y: -71.9753}
+        - {x: -145.4919, y: 25.0247}
+        - {x: -133.4919, y: 67.0247}
+        - {x: -122.4919, y: 76.0247}
+        - {x: 61.50809, y: 76.0247}
+        - {x: 90.50809, y: 69.0247}
+        - {x: 120.5081, y: 17.0247}
+        - {x: 142.5081, y: 19.0247}
+        - {x: 145.5081, y: 18.0247}
+        - {x: 145.5081, y: -20.9753}
+        - {x: 136.5081, y: -45.9753}
+        - {x: -18.49191, y: -75.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfc3e6a7c9442feac9be8eb7111bf15
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_4
+      rect:
+        serializedVersion: 2
+        x: 139.0267
+        y: 1204.076
+        width: 276.8972
+        height: 166.8478
+      alignment: 9
+      pivot: {x: 0.3700769, y: 0.5629313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120.4753, y: -83.50005}
+        - {x: -138.4753, y: -69.50005}
+        - {x: -138.4753, y: 64.49995}
+        - {x: -79.47533, y: 83.49995}
+        - {x: 113.5247, y: 83.49995}
+        - {x: 138.5247, y: 49.49995}
+        - {x: 138.5247, y: -40.50005}
+        - {x: -25.47533, y: -83.50005}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69cb3562b2f4805ab48dfe0a6191103
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_5
+      rect:
+        serializedVersion: 2
+        x: 631.0267
+        y: 1192.076
+        width: 255.9465
+        height: 177.8478
+      alignment: 9
+      pivot: {x: 0.3652063, y: 0.5955871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.999977, y: -89.00005}
+        - {x: -128, y: -89.00005}
+        - {x: -128, y: 79.99994}
+        - {x: -106, y: 88.99995}
+        - {x: 40.00002, y: 88.99995}
+        - {x: 128, y: 64.99995}
+        - {x: 128, y: -4.000053}
+        - {x: 49.00002, y: -70.00005}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271c8b84ed94c1abd20f033e8da817c
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_6
+      rect:
+        serializedVersion: 2
+        x: 1111.043
+        y: 1189.076
+        width: 259.9303
+        height: 184.8478
+      alignment: 9
+      pivot: {x: 0.371088, y: 0.5892624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106.9919, y: -92.50005}
+        - {x: -130.0081, y: -92.50005}
+        - {x: -130.0081, y: 38.49995}
+        - {x: -59.00813, y: 92.49995}
+        - {x: 53.99187, y: 92.49995}
+        - {x: 129.9919, y: 75.49995}
+        - {x: 129.9919, y: -4.500053}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b6e9fdcec34c27bece9104a3010513
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_7
+      rect:
+        serializedVersion: 2
+        x: 1585.069
+        y: 1186.043
+        width: 237.8544
+        height: 301.881
+      alignment: 9
+      pivot: {x: 0.4432566, y: 0.3708648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.99668, y: -150.9835}
+        - {x: -118.9967, y: -106.9835}
+        - {x: -118.9967, y: 56.01654}
+        - {x: -21.99668, y: 151.0165}
+        - {x: 74.00332, y: 151.0165}
+        - {x: 119.0033, y: 91.01654}
+        - {x: 119.0033, y: 2.016541}
+        - {x: 2.003319, y: -148.9835}
+        - {x: -1.996681, y: -150.9835}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c9d9c762674c5aaa9b454a2b391732
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_8
+      rect:
+        serializedVersion: 2
+        x: 99.07612
+        y: 690.0761
+        width: 210.8478
+        height: 310.8478
+      alignment: 9
+      pivot: {x: 0.675482, y: 0.3471921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.5, y: -112.5}
+        - {x: -105.5, y: -98.5}
+        - {x: -105.5, y: 104.5}
+        - {x: -35.5, y: 155.5}
+        - {x: 64.5, y: 155.5}
+        - {x: 89.5, y: 29.5}
+        - {x: 105.5, y: 6.5}
+        - {x: 105.5, y: -82.5}
+        - {x: 90.5, y: -144.5}
+        - {x: 53.5, y: -155.5}
+        - {x: -63.5, y: -155.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4df86c3977549aca4a8d821335e9d20
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_9
+      rect:
+        serializedVersion: 2
+        x: 581.0129
+        y: 684.0761
+        width: 257.911
+        height: 213.8478
+      alignment: 9
+      pivot: {x: 0.5563434, y: 0.5327336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.9684, y: -107}
+        - {x: -128.9684, y: -30.99999}
+        - {x: -128.9684, y: 82.00001}
+        - {x: -110.9684, y: 86.00001}
+        - {x: -51.96843, y: 63.00001}
+        - {x: -33.96843, y: 101}
+        - {x: -11.96843, y: 107}
+        - {x: 75.03157, y: 107}
+        - {x: 129.0316, y: 83.00001}
+        - {x: 129.0316, y: -82.99999}
+        - {x: 77.03157, y: -107}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f0931938f040579bb652d2208ddfae
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_10
+      rect:
+        serializedVersion: 2
+        x: 1135.076
+        y: 683.0761
+        width: 191.8478
+        height: 216.8478
+      alignment: 9
+      pivot: {x: 0.3775068, y: 0.529975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.00005, y: -108.5}
+        - {x: -96.00005, y: -69.49999}
+        - {x: -96.00005, y: 57.50001}
+        - {x: -64.00005, y: 108.5}
+        - {x: 65.99995, y: 108.5}
+        - {x: 66.99995, y: 107.5}
+        - {x: 95.99995, y: 63.50001}
+        - {x: 95.99995, y: -43.49999}
+        - {x: 79.99995, y: -98.49999}
+        - {x: 52.99995, y: -108.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb7212cb724bd0aa21657884a1c08c
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumTransform_11
+      rect:
+        serializedVersion: 2
+        x: 1610.076
+        y: 703.0761
+        width: 187.8478
+        height: 203.8478
+      alignment: 9
+      pivot: {x: 0.428133, y: 0.4656607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.99995, y: -52.99999}
+        - {x: 48.99994, y: -102}
+        - {x: -49.00005, y: -102}
+        - {x: -94.00005, y: -60.99999}
+        - {x: -94.00005, y: 38.00001}
+        - {x: -29.00005, y: 102}
+        - {x: 65.99995, y: 102}
+        - {x: 86.99995, y: 91.00001}
+        - {x: 93.99995, y: 54.00001}
+        - {x: 93.99995, y: 27.00001}
+        - {x: 86.99995, y: 26.00001}
+        - {x: 81.99995, y: 32.00001}
+        - {x: 74.99995, y: 43.00001}
+        - {x: 63.99995, y: 53.00001}
+        - {x: 65.99995, y: 50.00001}
+        - {x: 71.99995, y: 45.00001}
+        - {x: 85.99995, y: 24.00001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71db0961873d4cb5b48c59e76894f8eb
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

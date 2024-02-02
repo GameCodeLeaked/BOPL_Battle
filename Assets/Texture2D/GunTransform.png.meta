@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 76f45017e707ad048b603ab2fe931783
+timeCreated: 1706851673
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GunTransform_0
+  - first:
+      213: 21300002
+    second: GunTransform_1
+  - first:
+      213: 21300004
+    second: GunTransform_2
+  - first:
+      213: 21300006
+    second: GunTransform_3
+  - first:
+      213: 21300008
+    second: GunTransform_4
+  - first:
+      213: 21300010
+    second: GunTransform_5
+  - first:
+      213: 21300012
+    second: GunTransform_6
+  - first:
+      213: 21300014
+    second: GunTransform_7
+  - first:
+      213: 21300016
+    second: GunTransform_8
+  - first:
+      213: 21300018
+    second: GunTransform_9
+  - first:
+      213: 21300020
+    second: GunTransform_10
+  - first:
+      213: 21300022
+    second: GunTransform_11
+  - first:
+      213: 21300024
+    second: GunTransform_12
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GunTransform_0
+      rect:
+        serializedVersion: 2
+        x: 189.0761
+        y: 1673.036
+        width: 104.857
+        height: 257.8876
+      alignment: 9
+      pivot: {x: 0.4999558, y: 0.4845667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.504631, y: -128.98}
+        - {x: -52.50463, y: -128.98}
+        - {x: -52.50463, y: 94.01994}
+        - {x: -10.50463, y: 129.0199}
+        - {x: 52.49537, y: 129.0199}
+        - {x: 52.49537, y: -16.98006}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7adc95df64eee9a49f310417fb9b9
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_1
+      rect:
+        serializedVersion: 2
+        x: 684.0477
+        y: 1614.076
+        width: 79.93939
+        height: 389.9214
+      alignment: 9
+      pivot: {x: 0.5060368, y: 0.4716946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.98257, y: -195.0369}
+        - {x: -40.01743, y: -195.0369}
+        - {x: -40.01743, y: 58.96313}
+        - {x: -30.01743, y: 175.9631}
+        - {x: -6.017426, y: 194.9631}
+        - {x: 33.98257, y: 194.9631}
+        - {x: 39.98257, y: 186.9631}
+        - {x: 39.98257, y: -96.03687}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962613ac5f834eed9796445b3d1bd155
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_2
+      rect:
+        serializedVersion: 2
+        x: 1090.043
+        y: 1680.076
+        width: 253.894
+        height: 231.8478
+      alignment: 9
+      pivot: {x: 0.4626223, y: 0.5086261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111.99, y: -116.0001}
+        - {x: -126.99, y: -97.00006}
+        - {x: -126.99, y: -1.000061}
+        - {x: -14.98997, y: 115.9999}
+        - {x: 126.01, y: 115.9999}
+        - {x: 127.01, y: 111.9999}
+        - {x: 127.01, y: 14.99994}
+        - {x: -52.98997, y: -116.0001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da87856a4454e0b8e2aa83a7e8cfa5c
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_3
+      rect:
+        serializedVersion: 2
+        x: 1567.001
+        y: 1716.058
+        width: 330.9725
+        height: 157.9228
+      alignment: 9
+      pivot: {x: 0.3731406, y: 0.5188724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164.513, y: -23.01962}
+        - {x: -89.48698, y: -79.01962}
+        - {x: -146.487, y: -79.01962}
+        - {x: -165.487, y: -53.01962}
+        - {x: -165.487, y: 5.980377}
+        - {x: -68.48698, y: 78.98038}
+        - {x: 105.513, y: 78.98038}
+        - {x: 116.513, y: 76.98038}
+        - {x: 165.513, y: 50.98038}
+        - {x: 165.513, y: -16.01962}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c801d0591254cb59bba3290e799df75
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_4
+      rect:
+        serializedVersion: 2
+        x: 122.0429
+        y: 1226.076
+        width: 327.9303
+        height: 152.8876
+      alignment: 9
+      pivot: {x: 0.3642758, y: 0.470436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.00806, y: 70.48003}
+        - {x: -55.00806, y: 72.48003}
+        - {x: -56.00806, y: 76.48003}
+        - {x: -17.00806, y: 76.48003}
+        - {x: 163.9919, y: 52.48003}
+        - {x: 163.9919, y: -29.51997}
+        - {x: 133.9919, y: -41.51997}
+        - {x: -106.0081, y: -72.51997}
+        - {x: -109.0081, y: -76.51997}
+        - {x: -143.0081, y: -76.51997}
+        - {x: -164.0081, y: -61.51997}
+        - {x: -164.0081, y: -28.51997}
+        - {x: -112.0081, y: 46.48003}
+        - {x: -61.00806, y: 76.48003}
+        - {x: -58.00806, y: 76.48003}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31022b0575ab4004a42b42a8ca115639
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_5
+      rect:
+        serializedVersion: 2
+        x: 612.0313
+        y: 1048
+        width: 310.8926
+        height: 327.9239
+      alignment: 9
+      pivot: {x: 0.3617608, y: 0.762372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.4776, y: 164.0381}
+        - {x: 155.5224, y: 164.0381}
+        - {x: 155.5224, y: 87.03806}
+        - {x: -45.47755, y: -5.961945}
+        - {x: -149.4776, y: -5.961945}
+        - {x: -155.4776, y: 3.038055}
+        - {x: -155.4776, y: 39.03806}
+      - - {x: -13.47755, y: -163.9619}
+        - {x: -28.47755, y: -163.9619}
+        - {x: -28.47755, y: -161.9619}
+        - {x: -21.47755, y: -158.962}
+        - {x: -15.47755, y: -158.962}
+        - {x: -12.47755, y: -161.9619}
+        - {x: -12.47755, y: -162.9619}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a1992ea0841f595fbb564b5db4829
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_6
+      rect:
+        serializedVersion: 2
+        x: 1095.027
+        y: 1206.027
+        width: 308.8972
+        height: 174.9256
+      alignment: 9
+      pivot: {x: 0.3641123, y: 0.5257852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.47531, y: 85.51049}
+        - {x: -41.47531, y: 83.51049}
+        - {x: -24.47531, y: 80.51049}
+        - {x: -27.47531, y: 81.51049}
+        - {x: -29.47531, y: 81.51049}
+        - {x: -31.47531, y: 82.51049}
+        - {x: -30.47531, y: 87.51049}
+        - {x: -10.47531, y: 87.51049}
+        - {x: 145.5247, y: 61.51049}
+        - {x: 154.5247, y: 52.51049}
+        - {x: 154.5247, y: -26.48951}
+        - {x: -23.47531, y: -87.48951}
+        - {x: -154.4753, y: -87.48951}
+        - {x: -154.4753, y: -12.48951}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5221cc58b55f46b9be336fde0c4fd096
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_7
+      rect:
+        serializedVersion: 2
+        x: 1578.013
+        y: 1207.027
+        width: 309.911
+        height: 168.8971
+      alignment: 9
+      pivot: {x: 0.3629657, y: 0.5386312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.96843, y: -3.475304}
+        - {x: -58.96843, y: -6.475304}
+        - {x: -56.96843, y: -4.475304}
+        - {x: -57.96843, y: -0.4753036}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd2eaec1424977aeedfa7c8d30daf2
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_8
+      rect:
+        serializedVersion: 2
+        x: 148.0761
+        y: 687.0129
+        width: 306.8478
+        height: 325.911
+      alignment: 9
+      pivot: {x: 0.3044633, y: 0.3405441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.50002, y: -162.9684}
+        - {x: -152.5, y: -162.9684}
+        - {x: -153.5, y: -159.9684}
+        - {x: -153.5, y: 19.03157}
+        - {x: 6.499985, y: 163.0316}
+        - {x: 88.49998, y: 163.0316}
+        - {x: 153.5, y: 82.03157}
+        - {x: 153.5, y: -59.96843}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7079c4466c443c85c61f4ff012bd3a
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_9
+      rect:
+        serializedVersion: 2
+        x: 626.0363
+        y: 692.0129
+        width: 230.9508
+        height: 355.9871
+      alignment: 9
+      pivot: {x: 0.4263408, y: 0.2977273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.51166, y: -174.0065}
+        - {x: -78.51166, y: -170.0065}
+        - {x: -78.51166, y: -166.0065}
+        - {x: -75.51166, y: -165.0065}
+        - {x: -71.51166, y: -170.0065}
+        - {x: -71.51166, y: -172.0065}
+        - {x: -73.51166, y: -174.0065}
+      - - {x: -78.51166, y: -138.0065}
+        - {x: -76.51166, y: -150.0065}
+        - {x: -83.51166, y: -152.0065}
+        - {x: -96.51166, y: -153.0065}
+        - {x: -115.5117, y: -88.00648}
+        - {x: -115.5117, y: 81.99352}
+        - {x: -55.51166, y: 177.9935}
+        - {x: 69.48834, y: 177.9935}
+        - {x: 115.4883, y: 143.9935}
+        - {x: 115.4883, y: 50.99352}
+        - {x: 112.4883, y: 45.99352}
+        - {x: 38.48834, y: 45.99352}
+        - {x: 79.48834, y: 35.99352}
+        - {x: 109.4883, y: -13.00648}
+        - {x: 62.48834, y: -172.0065}
+        - {x: 22.48834, y: -176.0065}
+        - {x: -43.51166, y: -176.0065}
+        - {x: -43.51166, y: -177.0065}
+        - {x: -46.51166, y: -178.0065}
+        - {x: -59.51166, y: -178.0065}
+        - {x: -62.51166, y: -174.0065}
+        - {x: -62.51166, y: -172.0065}
+        - {x: -61.51166, y: -171.0065}
+        - {x: -48.51166, y: -171.0065}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa39a1f8785b4c348e97c850adbc9a6d
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_10
+      rect:
+        serializedVersion: 2
+        x: 1064.006
+        y: 673.0761
+        width: 292.9811
+        height: 318.8478
+      alignment: 9
+      pivot: {x: 0.4897723, y: 0.3917979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.5035, y: 129.5}
+        - {x: 128.5035, y: 132.5}
+        - {x: 130.5035, y: 134.5}
+        - {x: 132.5035, y: 134.5}
+        - {x: 135.5035, y: 131.5}
+        - {x: 135.5035, y: 129.5}
+        - {x: 132.5035, y: 128.5}
+      - - {x: 122.5035, y: 114.5}
+        - {x: 121.5035, y: 115.5}
+        - {x: 121.5035, y: 119.5}
+        - {x: 138.5035, y: 125.5}
+        - {x: 145.5035, y: 125.5}
+        - {x: 146.5035, y: 123.5}
+        - {x: 146.5035, y: 115.5}
+        - {x: 143.5035, y: 111.5}
+        - {x: 134.5035, y: 111.5}
+      - - {x: -130.4965, y: 41.5}
+        - {x: -137.4965, y: 47.5}
+        - {x: -100.4965, y: 143.5}
+        - {x: -11.49654, y: 159.5}
+        - {x: 117.5035, y: 159.5}
+        - {x: 113.5035, y: 147.5}
+        - {x: 114.5035, y: 147.5}
+        - {x: 122.5035, y: 144.5}
+        - {x: 123.5035, y: 139.5}
+        - {x: 123.5035, y: 132.5}
+        - {x: 123.5035, y: 127.5}
+        - {x: 121.5035, y: 125.5}
+        - {x: 113.5035, y: 123.5}
+        - {x: 110.5035, y: 123.5}
+        - {x: 108.5035, y: 126.5}
+        - {x: 108.5035, y: 129.5}
+        - {x: 116.5035, y: 132.5}
+        - {x: 114.5035, y: 132.5}
+        - {x: 108.5035, y: 137.5}
+        - {x: 108.5035, y: 138.5}
+        - {x: 98.50346, y: 133.5}
+        - {x: 84.50346, y: 128.5}
+        - {x: 93.50346, y: 124.5}
+        - {x: 93.50346, y: 121.5}
+        - {x: 84.50346, y: 114.5}
+        - {x: 20.50346, y: 90.49999}
+        - {x: 30.50346, y: 92.49999}
+        - {x: 46.50346, y: 87.5}
+        - {x: 49.50346, y: 64.5}
+        - {x: 24.50346, y: 34.5}
+        - {x: 18.50346, y: 37.5}
+        - {x: 7.503464, y: 21.5}
+        - {x: 6.503464, y: 20.5}
+        - {x: 6.503464, y: 19.5}
+        - {x: 14.50346, y: 27.5}
+        - {x: 54.50346, y: 54.5}
+        - {x: 54.50346, y: 55.5}
+        - {x: 57.50346, y: 60.5}
+        - {x: 60.50346, y: 60.5}
+        - {x: 61.50346, y: 59.5}
+        - {x: 63.50346, y: 60.5}
+        - {x: 60.50346, y: 60.5}
+        - {x: 49.50346, y: 61.5}
+        - {x: 49.50346, y: 64.5}
+        - {x: 49.50346, y: 66.5}
+        - {x: 54.50346, y: 69.5}
+        - {x: 59.50346, y: 70.5}
+        - {x: 63.50346, y: 66.5}
+        - {x: 63.50346, y: 60.5}
+        - {x: 67.50346, y: 63.5}
+        - {x: 68.50346, y: 100.5}
+        - {x: 98.50346, y: 85.5}
+        - {x: 102.5035, y: 85.5}
+        - {x: 106.5035, y: 83.5}
+        - {x: 106.5035, y: 81.5}
+        - {x: 146.5035, y: 61.5}
+        - {x: 146.5035, y: -52.5}
+        - {x: 58.50346, y: -159.5}
+        - {x: -88.49654, y: -159.5}
+        - {x: -90.49654, y: -157.5}
+        - {x: -91.49654, y: -157.5}
+        - {x: -96.49654, y: -154.5}
+        - {x: -98.49654, y: -150.5}
+        - {x: -97.49654, y: -148.5}
+        - {x: -100.4965, y: -149.5}
+        - {x: -105.4965, y: -149.5}
+        - {x: -108.4965, y: -147.5}
+        - {x: -108.4965, y: -143.5}
+        - {x: -106.4965, y: -142.5}
+        - {x: -101.4965, y: -142.5}
+        - {x: -138.4965, y: -94.5}
+        - {x: -139.4965, y: -90.5}
+        - {x: -139.4965, y: -90.5}
+        - {x: -143.4965, y: -90.5}
+        - {x: -145.4965, y: -86.5}
+        - {x: -145.4965, y: -80.5}
+        - {x: -140.4965, y: -80.5}
+        - {x: -146.4965, y: -35.5}
+        - {x: -146.4965, y: 11.5}
+        - {x: -137.4965, y: 28.5}
+        - {x: -134.4965, y: 22.5}
+        - {x: -135.4965, y: 20.5}
+        - {x: -135.4965, y: 15.5}
+      - - {x: -134.4965, y: -115.5}
+        - {x: -136.4965, y: -110.5}
+        - {x: -135.4965, y: -107.5}
+        - {x: -133.4965, y: -107.5}
+        - {x: -129.4965, y: -111.5}
+        - {x: -129.4965, y: -112.5}
+        - {x: -132.4965, y: -115.5}
+      - - {x: -124.4965, y: -130.5}
+        - {x: -131.4965, y: -122.5}
+        - {x: -131.4965, y: -118.5}
+        - {x: -129.4965, y: -117.5}
+        - {x: -122.4965, y: -118.5}
+        - {x: -119.4965, y: -126.5}
+        - {x: -119.4965, y: -129.5}
+        - {x: -120.4965, y: -130.5}
+      - - {x: -115.4965, y: -140.5}
+        - {x: -120.4965, y: -134.5}
+        - {x: -120.4965, y: -132.5}
+        - {x: -119.4965, y: -130.5}
+        - {x: -113.4965, y: -130.5}
+        - {x: -106.4965, y: -136.5}
+        - {x: -106.4965, y: -142.5}
+        - {x: -109.4965, y: -143.5}
+        - {x: -112.4965, y: -142.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8479f9564b64a0ba0b56dc626e6546a
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_11
+      rect:
+        serializedVersion: 2
+        x: 1549.013
+        y: 694.002
+        width: 275.9742
+        height: 229.935
+      alignment: 9
+      pivot: {x: 0.5126823, y: 0.4522933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121, y: -28.96944}
+        - {x: -123, y: -23.96944}
+        - {x: -123, y: -21.96944}
+        - {x: -125, y: -20.96944}
+        - {x: -127, y: -15.96944}
+        - {x: -128, y: -10.96944}
+        - {x: -130, y: -8.969444}
+        - {x: -130, y: -13.96944}
+        - {x: -127, y: -18.96944}
+        - {x: -127, y: -24.96944}
+        - {x: -125, y: -27.96944}
+        - {x: -125, y: -29.96944}
+        - {x: -123, y: -32.96944}
+        - {x: -120, y: -35.96944}
+        - {x: -117, y: -35.96944}
+        - {x: -116, y: -35.96944}
+        - {x: -118, y: -33.96944}
+        - {x: -119, y: -29.96944}
+      - - {x: -89.00003, y: 44.03056}
+        - {x: -92.00003, y: 46.03056}
+        - {x: -92.00003, y: 49.03056}
+        - {x: -90.00003, y: 54.03056}
+        - {x: -84.00003, y: 54.03056}
+        - {x: -84.00003, y: 48.03056}
+        - {x: -87.00003, y: 44.03056}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714512891bc9401995c5d71febcdabb7
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunTransform_12
+      rect:
+        serializedVersion: 2
+        x: 133.0761
+        y: 206.0761
+        width: 248.8876
+        height: 208.8586
+      alignment: 9
+      pivot: {x: 0.4356339, y: 0.4401249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.4801, y: -56.50542}
+        - {x: 26.48008, y: -104.5054}
+        - {x: -58.51992, y: -104.5054}
+        - {x: -124.5199, y: -41.50542}
+        - {x: -124.5199, y: 41.49458}
+        - {x: -120.5199, y: 51.49458}
+        - {x: -64.51992, y: 104.4946}
+        - {x: 73.48008, y: 104.4946}
+        - {x: 124.4801, y: 83.49458}
+        - {x: 124.4801, y: 13.49458}
+        - {x: 117.4801, y: 7.494576}
+        - {x: 99.48008, y: 16.49458}
+        - {x: 83.48008, y: 47.49458}
+        - {x: 60.48008, y: 51.49458}
+        - {x: 55.48008, y: 44.49458}
+        - {x: 55.48008, y: 43.49458}
+        - {x: 57.48008, y: 45.49458}
+        - {x: 67.48008, y: 49.49458}
+        - {x: 98.48008, y: 16.49458}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70db9d04fa024890ae67b6523eac6c05
+      internalID: 21300024
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

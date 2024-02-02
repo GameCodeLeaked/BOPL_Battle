@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 192b8b9a8ac23f048aac47cab15dec95
+timeCreated: 1706851674
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Celebration_0
+  - first:
+      213: 21300002
+    second: Celebration_1
+  - first:
+      213: 21300004
+    second: Celebration_2
+  - first:
+      213: 21300006
+    second: Celebration_3
+  - first:
+      213: 21300008
+    second: Celebration_4
+  - first:
+      213: 21300010
+    second: Celebration_5
+  - first:
+      213: 21300012
+    second: Celebration_6
+  - first:
+      213: 21300014
+    second: Celebration_7
+  - first:
+      213: 21300016
+    second: Celebration_8
+  - first:
+      213: 21300018
+    second: Celebration_9
+  - first:
+      213: 21300020
+    second: Celebration_10
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Celebration_0
+      rect:
+        serializedVersion: 2
+        x: 21.05413
+        y: 372.0268
+        width: 180.8918
+        height: 135.9465
+      alignment: 9
+      pivot: {x: 0.4474824, y: 0.5147116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -68.00002}
+        - {x: -90.5, y: -68.00002}
+        - {x: -90.5, y: -4.000015}
+        - {x: -54.5, y: 61.99998}
+        - {x: -41.5, y: 67.99998}
+        - {x: 48.5, y: 67.99998}
+        - {x: 90.5, y: 35.99998}
+        - {x: 90.5, y: -54.00002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef69a4f6f134d5e9beb6bb00d8a56ad
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celebration_1
+      rect:
+        serializedVersion: 2
+        x: 225.0761
+        y: 372.0268
+        width: 182.9239
+        height: 135.8971
+      alignment: 9
+      pivot: {x: 0.442391, y: 0.5148986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.46194, y: -67.97533}
+        - {x: -91.53806, y: -67.97533}
+        - {x: -91.53806, y: -23.97533}
+        - {x: -83.53806, y: 24.02467}
+        - {x: -35.53806, y: 68.02467}
+        - {x: 54.46194, y: 68.02467}
+        - {x: 91.46194, y: 50.02467}
+        - {x: 91.46194, y: -36.97533}
+        - {x: 88.46194, y: -43.97533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a230094b6a4548aba2dde1704a2b40
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celebration_2
+      rect:
+        serializedVersion: 2
+        x: 428.0268
+        y: 375.0268
+        width: 183.9733
+        height: 131.8971
+      alignment: 9
+      pivot: {x: 0.4455715, y: 0.5077688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91.98661, y: -41.97533}
+        - {x: 36.98661, y: -65.97533}
+        - {x: -92.01339, y: -65.97533}
+        - {x: -92.01339, y: -4.975327}
+        - {x: -84.01339, y: 27.02467}
+        - {x: -16.01339, y: 66.02467}
+        - {x: 65.98661, y: 66.02467}
+        - {x: 91.98661, y: 49.02467}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8dd650c0824da295260c60da2ccadf
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celebration_3
+      rect:
+        serializedVersion: 2
+        x: 633.0267
+        y: 373.0268
+        width: 179.9303
+        height: 132.8971
+      alignment: 9
+      pivot: {x: 0.4500256, y: 0.5189972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.00809, y: -66.47533}
+        - {x: -89.99191, y: -66.47533}
+        - {x: -89.99191, y: -11.47533}
+        - {x: -55.99191, y: 66.52467}
+        - {x: 49.00809, y: 66.52467}
+        - {x: 90.00809, y: 38.52467}
+        - {x: 90.00809, y: -49.47533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe8baeba53b49608e28bc0f871c00ab
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celebration_4
+      rect:
+        serializedVersion: 2
+        x: 830.0429
+        y: 372
+        width: 184.9442
+        height: 121.9403
+      alignment: 9
+      pivot: {x: 0.4755872, y: 0.5740516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.485, y: 39.02987}
+        - {x: 74.485, y: 43.02987}
+        - {x: 74.485, y: 54.02987}
+        - {x: 75.485, y: 55.02987}
+        - {x: 87.485, y: 61.02987}
+        - {x: 92.485, y: 61.02987}
+        - {x: 92.485, y: 45.02987}
+        - {x: 87.485, y: 39.02987}
+      - - {x: 40.485, y: -60.97013}
+        - {x: -92.515, y: -60.97013}
+        - {x: -92.515, y: 20.02987}
+        - {x: -80.515, y: 59.02987}
+        - {x: 37.485, y: 59.02987}
+        - {x: 83.485, y: 35.02987}
+        - {x: 83.485, y: -27.97013}
+        - {x: 69.485, y: -56.97013}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed80b85803754c25835c2adc83bb5d04
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celebration_5
+      rect:
+        serializedVersion: 2
+        x: 8.042908
+        y: 232
+        width: 161.903
+        height: 134.9871
+      alignment: 9
+      pivot: {x: 0.5803297, y: 0.5185681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.00561, y: -67.49355}
+        - {x: -80.99439, y: -67.49355}
+        - {x: -80.99439, y: 38.50645}
+        - {x: -50.99439, y: 67.50645}
+        - {x: 81.00561, y: 67.50645}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d417d967dfc9468897c81798ba5acbca
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celebration_6
+      rect:
+        serializedVersion: 2
+        x: 208.0129
+        y: 232
+        width: 184.911
+        height: 140
+      alignment: 9
+      pivot: {x: 0.529915, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.53161, y: 66}
+        - {x: 67.53161, y: 68}
+        - {x: 67.53161, y: 70}
+        - {x: 74.53161, y: 70}
+        - {x: 74.53161, y: 68}
+        - {x: 72.53161, y: 66}
+      - - {x: 87.53161, y: -13}
+        - {x: 85.53161, y: -10}
+        - {x: 85.53161, y: 6}
+        - {x: 89.53161, y: 9}
+        - {x: 92.53161, y: 9}
+        - {x: 92.53161, y: -13}
+      - - {x: 83.53161, y: -31}
+        - {x: 81.53161, y: -28}
+        - {x: 83.53161, y: -26}
+        - {x: 86.53161, y: -27}
+        - {x: 86.53161, y: -30}
+      - - {x: 68.5316, y: -70}
+        - {x: -92.46839, y: -70}
+        - {x: -92.46839, y: 32}
+        - {x: -56.46839, y: 68}
+        - {x: 39.53161, y: 68}
+        - {x: 76.53161, y: 45}
+        - {x: 76.53161, y: -51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16478bd901a84f00b10880749cd0ff02
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celebration_7
+      rect:
+        serializedVersion: 2
+        x: 409.0761
+        y: 232
+        width: 160.8726
+        height: 140
+      alignment: 9
+      pivot: {x: 0.6273531, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.51238, y: 60}
+        - {x: -57.51238, y: 70}
+        - {x: 70.48762, y: 70}
+        - {x: 80.48762, y: 25}
+        - {x: 80.48762, y: -67}
+        - {x: 77.48762, y: -70}
+        - {x: -80.51238, y: -70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a632b81f57bc4c688ed5257c01cad186
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celebration_8
+      rect:
+        serializedVersion: 2
+        x: 614.0844
+        y: 232
+        width: 158.9027
+        height: 140
+      alignment: 9
+      pivot: {x: 0.6287848, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.53575, y: -70}
+        - {x: -79.53575, y: -34}
+        - {x: -79.53575, y: 49}
+        - {x: -73.53575, y: 70}
+        - {x: 79.46425, y: 70}
+        - {x: 79.46425, y: -51}
+        - {x: 77.46425, y: -60}
+        - {x: 68.46425, y: -70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9cb181a7e40099398eb09a73e5f6d
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celebration_9
+      rect:
+        serializedVersion: 2
+        x: 831.0639
+        y: 233.0267
+        width: 166.86
+        height: 131.8971
+      alignment: 9
+      pivot: {x: 0.5210123, y: 0.5229322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.50611, y: -65.97531}
+        - {x: -72.49389, y: -65.97531}
+        - {x: -83.49389, y: -61.97531}
+        - {x: -83.49389, y: 57.02469}
+        - {x: -44.49389, y: 66.02469}
+        - {x: 57.50611, y: 66.02469}
+        - {x: 83.50611, y: 48.02469}
+        - {x: 83.50611, y: -34.97531}
+        - {x: 75.50611, y: -64.97531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b3f9757ee42c5894d3dbdb34ad3d3
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celebration_10
+      rect:
+        serializedVersion: 2
+        x: 20.07612
+        y: 93.07612
+        width: 169.8477
+        height: 125.8593
+      alignment: 9
+      pivot: {x: 0.4823372, y: 0.5476267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.00001, y: -63.00574}
+        - {x: -84.99999, y: -63.00574}
+        - {x: -84.99999, y: 22.99426}
+        - {x: -75.99999, y: 59.99426}
+        - {x: -57.99999, y: 62.99426}
+        - {x: 58.00001, y: 62.99426}
+        - {x: 85.00001, y: 52.99426}
+        - {x: 85.00001, y: -56.00574}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92e364a3d8543558cb204a8e24c5f13
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

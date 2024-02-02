@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 3d7ed5ecb40cf184caed10f5e05bb5da
+timeCreated: 1706851673
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: land_final_0
+  - first:
+      213: 21300002
+    second: land_final_1
+  - first:
+      213: 21300004
+    second: land_final_2
+  - first:
+      213: 21300006
+    second: land_final_3
+  - first:
+      213: 21300008
+    second: land_final_4
+  - first:
+      213: 21300010
+    second: land_final_5
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: land_final_0
+      rect:
+        serializedVersion: 2
+        x: 15.05132
+        y: 896.0129
+        width: 333.8726
+        height: 102.9603
+      alignment: 9
+      pivot: {x: 0.5195057, y: 0.6020479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.98759, y: 51.50689}
+        - {x: 52.01241, y: 51.50689}
+        - {x: 149.0124, y: 26.50689}
+        - {x: 161.0124, y: 26.50689}
+        - {x: 161.0124, y: 22.50689}
+        - {x: 162.0124, y: 22.50689}
+        - {x: 166.0124, y: 22.50689}
+        - {x: 167.0124, y: 20.50689}
+        - {x: 167.0124, y: 8.506889}
+        - {x: 166.0124, y: 2.506889}
+        - {x: 162.0124, y: -0.4931107}
+        - {x: 162.0124, y: -51.49311}
+        - {x: -166.9876, y: -51.49311}
+        - {x: -166.9876, y: -3.493111}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cbd7d4cb944229913fcde369a2b210
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_final_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 894.0761
+        width: 364.9239
+        height: 97.84776
+      alignment: 9
+      pivot: {x: 0.5165461, y: 0.6532995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -182.4619, y: -20.99999}
+        - {x: -128.4619, y: 49.00001}
+        - {x: 113.5381, y: 49.00001}
+        - {x: 179.5381, y: 34.00001}
+        - {x: 182.5381, y: -6.999992}
+        - {x: 182.5381, y: -32.99999}
+        - {x: 180.5381, y: -35.99999}
+        - {x: 168.5381, y: -48.99999}
+        - {x: -182.4619, y: -48.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aa178bfcef4ae784a091c36a05e669
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_final_2
+      rect:
+        serializedVersion: 2
+        x: 9.012913
+        y: 764.0761
+        width: 349.911
+        height: 95.84776
+      alignment: 9
+      pivot: {x: 0.5129507, y: 0.6460651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -172.9684, y: -38.99999}
+        - {x: -174.9684, y: -35.99999}
+        - {x: -172.9684, y: -33.99999}
+        - {x: -169.9684, y: -34.99999}
+        - {x: -169.9684, y: -37.99999}
+      - - {x: -167.9684, y: -36.99999}
+        - {x: -161.9684, y: -37.99999}
+        - {x: -164.9684, y: -33.99999}
+        - {x: -169.9684, y: -26.99999}
+        - {x: -82.9684, y: 48.00001}
+        - {x: 72.0316, y: 48.00001}
+        - {x: 175.0316, y: 15.00001}
+        - {x: 175.0316, y: -34.99999}
+        - {x: 171.0316, y: -42.99999}
+        - {x: 108.0316, y: -47.99999}
+        - {x: -169.9684, y: -47.99999}
+        - {x: -169.9684, y: -38.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c1ec57090e442dbc7962c4cf18fb30
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_final_3
+      rect:
+        serializedVersion: 2
+        x: 416.0268
+        y: 765.0761
+        width: 274.8971
+        height: 112.8478
+      alignment: 9
+      pivot: {x: 0.5437425, y: 0.5398768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 137.5247, y: -51.49999}
+        - {x: 130.5247, y: -56.49999}
+        - {x: -134.4753, y: -56.49999}
+        - {x: -137.4753, y: -48.49999}
+        - {x: -137.4753, y: -30.49999}
+        - {x: -69.47531, y: 56.50001}
+        - {x: 131.5247, y: 56.50001}
+        - {x: 137.5247, y: 29.50001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c511c5bfc454919895aa9d6383cc5c2
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_final_4
+      rect:
+        serializedVersion: 2
+        x: 71.07612
+        y: 633.0267
+        width: 225.911
+        height: 126.9733
+      alignment: 9
+      pivot: {x: 0.5197794, y: 0.4802056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.96839, y: 63.48664}
+        - {x: 72.96839, y: 63.48664}
+        - {x: 87.96839, y: 63.48664}
+        - {x: 108.9684, y: 24.48664}
+        - {x: 112.9684, y: 7.486641}
+        - {x: 112.9684, y: -12.51336}
+        - {x: 112.9684, y: -14.51336}
+        - {x: 112.9684, y: -58.51336}
+        - {x: 104.9684, y: -63.51336}
+        - {x: -109.0316, y: -63.51336}
+        - {x: -113.0316, y: -59.51336}
+        - {x: -113.0316, y: -26.51336}
+        - {x: -40.03161, y: 63.48664}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eacfa8e24b344759e6446f3e3db8c5f
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_final_5
+      rect:
+        serializedVersion: 2
+        x: 470.0267
+        y: 634.0761
+        width: 198.8971
+        height: 123.8478
+      alignment: 9
+      pivot: {x: 0.4800133, y: 0.4838512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.5247, y: -20.99999}
+        - {x: 94.5247, y: -25.99999}
+        - {x: 94.5247, y: -61.99999}
+        - {x: -86.4753, y: -61.99999}
+        - {x: -99.4753, y: -60.99999}
+        - {x: -99.4753, y: -28.99999}
+        - {x: -71.4753, y: 55.00001}
+        - {x: -54.4753, y: 62.00001}
+        - {x: 94.5247, y: 62.00001}
+        - {x: 94.5247, y: -16.99999}
+        - {x: 97.5247, y: -16.99999}
+        - {x: 99.5247, y: -17.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f286af4bd354750815668165112f34e
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
