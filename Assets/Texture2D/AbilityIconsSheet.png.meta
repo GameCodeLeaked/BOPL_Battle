@@ -1,0 +1,1436 @@
+fileFormatVersion: 2
+guid: 9b8a946593c731544bc4aa770dc65d4b
+timeCreated: 1706851672
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AbilityIconsSheet_29
+  - first:
+      213: 21300002
+    second: AbilityIconsSheet_22
+  - first:
+      213: 21300004
+    second: AbilityIconsSheet_27
+  - first:
+      213: 21300006
+    second: AbilityIconsSheet_23
+  - first:
+      213: 21300008
+    second: AbilityIconsSheet_33
+  - first:
+      213: 21300010
+    second: AbilityIconsSheet_30
+  - first:
+      213: 21300012
+    second: AbilityIconsSheet_0
+  - first:
+      213: 21300014
+    second: AbilityIconsSheet_1
+  - first:
+      213: 21300016
+    second: AbilityIconsSheet_2
+  - first:
+      213: 21300018
+    second: AbilityIconsSheet_3
+  - first:
+      213: 21300020
+    second: AbilityIconsSheet_4
+  - first:
+      213: 21300022
+    second: AbilityIconsSheet_5
+  - first:
+      213: 21300024
+    second: AbilityIconsSheet_6
+  - first:
+      213: 21300026
+    second: AbilityIconsSheet_7
+  - first:
+      213: 21300028
+    second: AbilityIconsSheet_8
+  - first:
+      213: 21300030
+    second: AbilityIconsSheet_9
+  - first:
+      213: 21300032
+    second: AbilityIconsSheet_10
+  - first:
+      213: 21300034
+    second: AbilityIconsSheet_11
+  - first:
+      213: 21300036
+    second: AbilityIconsSheet_12
+  - first:
+      213: 21300038
+    second: AbilityIconsSheet_13
+  - first:
+      213: 21300040
+    second: AbilityIconsSheet_14
+  - first:
+      213: 21300042
+    second: AbilityIconsSheet_15
+  - first:
+      213: 21300044
+    second: AbilityIconsSheet_16
+  - first:
+      213: 21300046
+    second: AbilityIconsSheet_17
+  - first:
+      213: 21300048
+    second: AbilityIconsSheet_18
+  - first:
+      213: 21300050
+    second: AbilityIconsSheet_19
+  - first:
+      213: 21300052
+    second: AbilityIconsSheet_31
+  - first:
+      213: 21300054
+    second: AbilityIconsSheet_21
+  - first:
+      213: 21300056
+    second: AbilityIconsSheet_25
+  - first:
+      213: 21300058
+    second: AbilityIconsSheet_26
+  - first:
+      213: 21300060
+    second: AbilityIconsSheet_32
+  - first:
+      213: 21300062
+    second: AbilityIconsSheet_24
+  - first:
+      213: 21300064
+    second: AbilityIconsSheet_28
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AbilityIconsSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 609
+        width: 304
+        height: 264
+      alignment: 9
+      pivot: {x: 0.4835526, y: 0.4734848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135, y: -95}
+        - {x: -152, y: 7}
+        - {x: -133, y: 65}
+        - {x: -100, y: 116}
+        - {x: -24, y: 132}
+        - {x: 81, y: 124}
+        - {x: 149, y: 73}
+        - {x: 152, y: -66}
+        - {x: 92, y: -131}
+        - {x: -59, y: -132}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b85c440dff4850bb68044d8f6bf31d
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 899
+        width: 278
+        height: 255
+      alignment: 9
+      pivot: {x: 0.4928057, y: 0.4980392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: -48.5}
+        - {x: -139, y: 30.5}
+        - {x: -111, y: 105.5}
+        - {x: -25, y: 127.5}
+        - {x: 72, y: 120.5}
+        - {x: 127, y: 69.5}
+        - {x: 139, y: -5.5}
+        - {x: 103, y: -87.5}
+        - {x: 47, y: -127.5}
+        - {x: -50, y: -126.5}
+        - {x: -108, y: -100.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc511b9851c409695d69ebd24f03dfd
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 622
+        width: 299
+        height: 242
+      alignment: 9
+      pivot: {x: 0.4849498, y: 0.4628099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: -85}
+        - {x: -149.5, y: 2}
+        - {x: -125.5, y: 92}
+        - {x: -50.5, y: 113}
+        - {x: 51.5, y: 121}
+        - {x: 107.5, y: 84}
+        - {x: 149.5, y: 18}
+        - {x: 136.5, y: -75}
+        - {x: 71.5, y: -117}
+        - {x: -45.5, y: -121}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e4900f670d4c278c6366f60c65dc30
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 901
+        width: 293
+        height: 263
+      alignment: 9
+      pivot: {x: 0.5153584, y: 0.4752852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144.5, y: -28.5}
+        - {x: -146.5, y: 47.5}
+        - {x: -116.5, y: 106.5}
+        - {x: -53.49998, y: 131.5}
+        - {x: 50.50002, y: 130.5}
+        - {x: 117.5, y: 101.5}
+        - {x: 144.5, y: 37.5}
+        - {x: 146.5, y: -44.5}
+        - {x: 108.5, y: -103.5}
+        - {x: 37.50002, y: -131.5}
+        - {x: -50.49998, y: -130.5}
+        - {x: -106.5, y: -94.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469da7831b041279d347e5e0022cb29
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 309
+        width: 304
+        height: 275
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.4836363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -147, y: -77.5}
+        - {x: -152, y: 38.5}
+        - {x: -124, y: 118.5}
+        - {x: -5, y: 137.5}
+        - {x: 104, y: 123.5}
+        - {x: 149, y: 79.5}
+        - {x: 152, y: -31.5}
+        - {x: 132, y: -105.5}
+        - {x: 39, y: -137.5}
+        - {x: -82, y: -131.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a82c5bf4b343469a4c0f08e9535a0b
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_30
+      rect:
+        serializedVersion: 2
+        x: 18.5
+        y: 296
+        width: 300
+        height: 283
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5159011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -141.5, y: -78.49998}
+        - {x: -149.5, y: 38.50002}
+        - {x: -86.5, y: 118.5}
+        - {x: 1.5, y: 141.5}
+        - {x: 101.5, y: 132.5}
+        - {x: 143.5, y: 71.50002}
+        - {x: 150.5, y: -23.49998}
+        - {x: 120.5, y: -101.5}
+        - {x: 11.5, y: -141.5}
+        - {x: -84.5, y: -132.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560ee5af60304ce9a5b7a1b87bc37b2d
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1798
+        width: 216
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5046296, y: 0.4792627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: -34.5}
+        - {x: -108, y: -17.5}
+        - {x: -108, y: 15.5}
+        - {x: -106, y: 26.5}
+        - {x: -101, y: 45.5}
+        - {x: -92, y: 61.5}
+        - {x: -82, y: 73.5}
+        - {x: -58, y: 95.5}
+        - {x: -33, y: 104.5}
+        - {x: -26, y: 106.5}
+        - {x: -14, y: 108.5}
+        - {x: 21, y: 108.5}
+        - {x: 34, y: 105.5}
+        - {x: 39, y: 103.5}
+        - {x: 57, y: 95.5}
+        - {x: 69, y: 86.5}
+        - {x: 93, y: 61.5}
+        - {x: 99, y: 51.5}
+        - {x: 102, y: 40.5}
+        - {x: 104, y: 36.5}
+        - {x: 106, y: 30.5}
+        - {x: 108, y: 21.5}
+        - {x: 108, y: -22.5}
+        - {x: 103, y: -42.5}
+        - {x: 97, y: -54.5}
+        - {x: 84, y: -72.5}
+        - {x: 66, y: -89.5}
+        - {x: 64, y: -93.5}
+        - {x: 55, y: -96.5}
+        - {x: 37, y: -104.5}
+        - {x: 34, y: -108.5}
+        - {x: -26, y: -108.5}
+        - {x: -43, y: -103.5}
+        - {x: -52, y: -99.5}
+        - {x: -60, y: -91.5}
+        - {x: -66, y: -87.5}
+        - {x: -86, y: -67.5}
+        - {x: -97, y: -52.5}
+      physicsShape:
+      - - {x: 86.99999, y: -63.5}
+        - {x: 92, y: -54.5}
+        - {x: 101, y: -37.5}
+        - {x: 106, y: -19.5}
+        - {x: 106, y: 15.5}
+        - {x: 104, y: 28.5}
+        - {x: 92.99999, y: 54.5}
+        - {x: 83, y: 67.5}
+        - {x: 64, y: 86.5}
+        - {x: 38, y: 100.5}
+        - {x: 13, y: 105.5}
+        - {x: -11, y: 105.5}
+        - {x: -23, y: 103.5}
+        - {x: -40, y: 99.5}
+        - {x: -63, y: 86.5}
+        - {x: -86, y: 63.5}
+        - {x: -97.99999, y: 42.5}
+        - {x: -105, y: 19.5}
+        - {x: -105, y: -15.5}
+        - {x: -102, y: -27.5}
+        - {x: -99, y: -37.5}
+        - {x: -90.99999, y: -54.5}
+        - {x: -81, y: -68.5}
+        - {x: -68, y: -81.5}
+        - {x: -54, y: -92.5}
+        - {x: -28, y: -103.5}
+        - {x: -18, y: -105.5}
+        - {x: 16, y: -105.5}
+        - {x: 32, y: -102.5}
+        - {x: 55, y: -91.5}
+        - {x: 70, y: -80.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6cd53fc1a4bc0b3248a080b2d34b6
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1784
+        width: 285
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5157894, y: 0.4469697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: -96}
+        - {x: -142.5, y: 4}
+        - {x: -119.5, y: 95}
+        - {x: -46.5, y: 132}
+        - {x: 63.5, y: 125}
+        - {x: 137.5, y: 46}
+        - {x: 142.5, y: -41}
+        - {x: 105.5, y: -118}
+        - {x: -3.5, y: -132}
+      physicsShape:
+      - - {x: 6.5, y: 111}
+        - {x: -57.5, y: 111}
+        - {x: -82.5, y: 107}
+        - {x: -88.5, y: 96}
+        - {x: -88.5, y: -4.000001}
+        - {x: 15.5, y: -92}
+        - {x: 56.5, y: -92}
+        - {x: 59.5, y: -86}
+        - {x: 59.5, y: -75}
+        - {x: 33.5, y: 99}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c17755c1cd4a44a3bf09970c3e5a22
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1775
+        width: 268
+        height: 247
+      alignment: 9
+      pivot: {x: 0.4850746, y: 0.5141701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -96.5}
+        - {x: -134, y: -23.5}
+        - {x: -131, y: 68.5}
+        - {x: -72, y: 117.5}
+        - {x: 22, y: 123.5}
+        - {x: 104, y: 85.5}
+        - {x: 134, y: 12.5}
+        - {x: 100, y: -83.5}
+        - {x: 6, y: -123.5}
+      physicsShape:
+      - - {x: -35, y: 73.5}
+        - {x: -68, y: 50.5}
+        - {x: -68, y: -45.5}
+        - {x: -26, y: -60.5}
+        - {x: 36, y: -60.5}
+        - {x: 66, y: -26.5}
+        - {x: 66, y: 47.5}
+        - {x: 41, y: 73.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ee3beb35742e1b02f4dc2ea85ac76
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1774
+        width: 283
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5053003, y: 0.4776119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.5, y: -74}
+        - {x: -141.5, y: 12}
+        - {x: -111.5, y: 85}
+        - {x: -51.5, y: 106}
+        - {x: 24.5, y: 134}
+        - {x: 132.5, y: 134}
+        - {x: 141.5, y: 116}
+        - {x: 141.5, y: 12}
+        - {x: 115.5, y: -95}
+        - {x: 38.5, y: -130}
+        - {x: -33.5, y: -134}
+        - {x: -93.5, y: -120}
+      physicsShape:
+      - - {x: 131.5, y: 127}
+        - {x: 53.5, y: 127}
+        - {x: -51.5, y: 89}
+        - {x: -75.5, y: -11}
+        - {x: -75.5, y: -82}
+        - {x: -32.5, y: -82}
+        - {x: 129.5, y: 16}
+        - {x: 135.5, y: 46}
+        - {x: 135.5, y: 122}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b52d6e41445424e8749011e97277ec1
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1780
+        width: 267
+        height: 240
+      alignment: 9
+      pivot: {x: 0.4981273, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.5, y: -75}
+        - {x: -133.5, y: -3}
+        - {x: -119.5, y: 63}
+        - {x: -83.5, y: 102}
+        - {x: -32.5, y: 118}
+        - {x: 28.5, y: 120}
+        - {x: 79.5, y: 99}
+        - {x: 112.5, y: 66}
+        - {x: 133.5, y: 12}
+        - {x: 125.5, y: -58}
+        - {x: 75.5, y: -104}
+        - {x: 8.5, y: -120}
+        - {x: -64.5, y: -114}
+      physicsShape:
+      - - {x: -56.5, y: 10}
+        - {x: -56.5, y: -48}
+        - {x: -33.5, y: -64.99999}
+        - {x: 43.5, y: -64.99999}
+        - {x: 66.49999, y: -59}
+        - {x: 66.49999, y: 46}
+        - {x: 37.5, y: 63}
+        - {x: 2.5, y: 63}
+        - {x: -27.5, y: 59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d1ded302bf4e14a3bd42e44befe9e0
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1803
+        width: 275
+        height: 225
+      alignment: 9
+      pivot: {x: 0.4509091, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.5, y: -102.5}
+        - {x: -137.5, y: -30.5}
+        - {x: -133.5, y: 47.5}
+        - {x: -95.5, y: 94.50001}
+        - {x: -2.5, y: 112.5}
+        - {x: 92.49999, y: 99.5}
+        - {x: 129.5, y: 58.5}
+        - {x: 137.5, y: -24.5}
+        - {x: 111.5, y: -76.5}
+        - {x: 68.5, y: -107.5}
+        - {x: -5.5, y: -112.5}
+      physicsShape:
+      - - {x: -17.5, y: 56.5}
+        - {x: -98.5, y: 12.5}
+        - {x: -98.5, y: -61.5}
+        - {x: -78.5, y: -83.5}
+        - {x: 16.5, y: -83.5}
+        - {x: 76.5, y: -69.5}
+        - {x: 111.5, y: -14.5}
+        - {x: 111.5, y: 49.5}
+        - {x: 109.5, y: 56.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d3d71119bb4b8e9ffef02d9fa81324
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1496
+        width: 273
+        height: 242
+      alignment: 9
+      pivot: {x: 0.4761905, y: 0.4710744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.5, y: -100}
+        - {x: -136.5, y: -17}
+        - {x: -123.5, y: 67}
+        - {x: -62.5, y: 121}
+        - {x: 18.5, y: 121}
+        - {x: 34.5, y: 98.99999}
+        - {x: 93.5, y: 91}
+        - {x: 136.5, y: 41}
+        - {x: 134.5, y: -46}
+        - {x: 108.5, y: -100}
+        - {x: 50.5, y: -121}
+        - {x: -35.5, y: -118}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c411104afd414428b06e56c2e92f450e
+      internalID: 21300024
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1487
+        width: 275
+        height: 251
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4900399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: -103.5}
+        - {x: -137.5, y: -35.5}
+        - {x: -137.5, y: 16.5}
+        - {x: -105.5, y: 83.5}
+        - {x: -95.5, y: 122.5}
+        - {x: -62.5, y: 125.5}
+        - {x: -14.5, y: 116.5}
+        - {x: 61.5, y: 116.5}
+        - {x: 114.5, y: 55.5}
+        - {x: 137.5, y: -25.5}
+        - {x: 103.5, y: -88.5}
+        - {x: 11.5, y: -125.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bb951ecca54c6bae97e94be784bfb6
+      internalID: 21300026
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_8
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1488
+        width: 263
+        height: 253
+      alignment: 9
+      pivot: {x: 0.513308, y: 0.4822134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: -46.5}
+        - {x: -131.5, y: 4.5}
+        - {x: -126.5, y: 50.5}
+        - {x: -107.5, y: 91.5}
+        - {x: -62.5, y: 118.5}
+        - {x: -4.5, y: 126.5}
+        - {x: 56.5, y: 121.5}
+        - {x: 98.5, y: 92.5}
+        - {x: 121.5, y: 49.5}
+        - {x: 131.5, y: -3.5}
+        - {x: 119.5, y: -54.5}
+        - {x: 93.5, y: -101.5}
+        - {x: 44.5, y: -122.5}
+        - {x: -11.5, y: -126.5}
+        - {x: -66.5, y: -113.5}
+        - {x: -102.5, y: -83.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee355b2722b34a75b12faf965f6c258a
+      internalID: 21300028
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1484
+        width: 300
+        height: 272
+      alignment: 9
+      pivot: {x: 0.46, y: 0.4632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140, y: -60}
+        - {x: -150, y: 12}
+        - {x: -128, y: 75}
+        - {x: -67, y: 112}
+        - {x: 32, y: 136}
+        - {x: 106, y: 126}
+        - {x: 150, y: 80}
+        - {x: 145, y: -14}
+        - {x: 134, y: -72}
+        - {x: 91, y: -118}
+        - {x: 0, y: -136}
+        - {x: -80, y: -133}
+        - {x: -118, y: -107}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d97816ca3467497694417b073c962
+      internalID: 21300030
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1491
+        width: 279
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5053763, y: 0.4722222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.5, y: -55}
+        - {x: -139.5, y: 9}
+        - {x: -123.5, y: 80}
+        - {x: -74.5, y: 116}
+        - {x: 13.5, y: 126}
+        - {x: 70.5, y: 106}
+        - {x: 112.5, y: 86}
+        - {x: 134.5, y: 71}
+        - {x: 139.5, y: -2}
+        - {x: 124.5, y: -30}
+        - {x: 119.5, y: -81}
+        - {x: 70.5, y: -125}
+        - {x: -15.5, y: -126}
+        - {x: -88.5, y: -115}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54c0d90ed034f96aa988ecd4d5f0455
+      internalID: 21300032
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1472
+        width: 307
+        height: 279
+      alignment: 9
+      pivot: {x: 0.4820847, y: 0.4946237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125.5, y: -95.5}
+        - {x: 77.5, y: -134.5}
+        - {x: -61.5, y: -139.5}
+        - {x: -131.5, y: -98.5}
+        - {x: -153.5, y: -4.5}
+        - {x: -142.5, y: 78.5}
+        - {x: -100.5, y: 128.5}
+        - {x: -6.5, y: 139.5}
+        - {x: 81.5, y: 124.5}
+        - {x: 119.5, y: 95.5}
+        - {x: 148.5, y: 44.5}
+        - {x: 153.5, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3880f0e619284401baa110af69b14f54
+      internalID: 21300034
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1193
+        width: 283
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.4901961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.5, y: -63.5}
+        - {x: -141.5, y: -3.5}
+        - {x: -133.5, y: 39.5}
+        - {x: -107.5, y: 99.5}
+        - {x: -42.5, y: 127.5}
+        - {x: 37.5, y: 127.5}
+        - {x: 101.5, y: 103.5}
+        - {x: 140.5, y: 52.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 122.5, y: -77.5}
+        - {x: 73.5, y: -118.5}
+        - {x: -1.5, y: -127.5}
+        - {x: -77.5, y: -121.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f42e58d2a44af68ec43248e08e6f40
+      internalID: 21300036
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_13
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1189
+        width: 285
+        height: 268
+      alignment: 9
+      pivot: {x: 0.508772, y: 0.4813433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.5, y: -108}
+        - {x: -142.5, y: -38}
+        - {x: -139.5, y: 53}
+        - {x: -100.5, y: 113}
+        - {x: -38.5, y: 134}
+        - {x: 35.5, y: 129}
+        - {x: 106.5, y: 106}
+        - {x: 142.5, y: 39}
+        - {x: 139.5, y: -45}
+        - {x: 106.5, y: -114}
+        - {x: -3.5, y: -134}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c26f13f2824809a18b8cb80675b7b2
+      internalID: 21300038
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_14
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1193
+        width: 284
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5105634, y: 0.4734848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: -55}
+        - {x: -142, y: 4}
+        - {x: -137, y: 58}
+        - {x: -123, y: 97.99999}
+        - {x: -76, y: 124}
+        - {x: 0, y: 132}
+        - {x: 57, y: 124}
+        - {x: 104, y: 107}
+        - {x: 139, y: 66}
+        - {x: 142, y: 19}
+        - {x: 136, y: -45}
+        - {x: 118, y: -95}
+        - {x: 71, y: -126}
+        - {x: 6, y: -132}
+        - {x: -64, y: -126}
+        - {x: -111, y: -103}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a65121955040ebbc530c16ec590e62
+      internalID: 21300040
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1175
+        width: 289
+        height: 281
+      alignment: 9
+      pivot: {x: 0.4948097, y: 0.5088968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134.5, y: -54.50002}
+        - {x: -144.5, y: -0.5000153}
+        - {x: -143.5, y: 56.49999}
+        - {x: -118.5, y: 120.5}
+        - {x: -54.5, y: 139.5}
+        - {x: 13.5, y: 140.5}
+        - {x: 65.5, y: 130.5}
+        - {x: 122.5, y: 108.5}
+        - {x: 143.5, y: 58.49998}
+        - {x: 144.5, y: -3.500015}
+        - {x: 119.5, y: -60.50002}
+        - {x: 82.5, y: -82.50002}
+        - {x: 78.5, y: -105.5}
+        - {x: 36.5, y: -140.5}
+        - {x: -26.5, y: -121.5}
+        - {x: -43.5, y: -97.50002}
+        - {x: -78.5, y: -108.5}
+        - {x: -108.5, y: -95.50002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574f0320e9d4021bfb7605084220437
+      internalID: 21300042
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1177
+        width: 277
+        height: 275
+      alignment: 9
+      pivot: {x: 0.4909747, y: 0.5127273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.5, y: -96.5}
+        - {x: -138.5, y: -22.5}
+        - {x: -136.5, y: 55.5}
+        - {x: -102.5, y: 113.5}
+        - {x: -17.5, y: 137.5}
+        - {x: 44.5, y: 135.5}
+        - {x: 88.5, y: 122.5}
+        - {x: 127.5, y: 97.5}
+        - {x: 138.5, y: 50.5}
+        - {x: 132.5, y: -27.5}
+        - {x: 108.5, y: -92.5}
+        - {x: 56.5, y: -126.5}
+        - {x: 6.5, y: -136.5}
+        - {x: -19.5, y: -134.5}
+        - {x: -20.5, y: -135.5}
+        - {x: -57.5, y: -137.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef93ec57444141da9e6e496c3142a0e5
+      internalID: 21300044
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1213
+        width: 221
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5067874, y: 0.4751131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.5, y: -51.5}
+        - {x: 92.50001, y: -70.5}
+        - {x: 70.50001, y: -92.5}
+        - {x: 61.50001, y: -95.5}
+        - {x: 44.50001, y: -110.5}
+        - {x: -28.49999, y: -110.5}
+        - {x: -37.49999, y: -109.5}
+        - {x: -40.49999, y: -105.5}
+        - {x: -56.49999, y: -100.5}
+        - {x: -69.49999, y: -94.5}
+        - {x: -95.49999, y: -68.5}
+        - {x: -95.49999, y: -56.5}
+        - {x: -103.5, y: -52.5}
+        - {x: -108.5, y: -29.5}
+        - {x: -110.5, y: -27.5}
+        - {x: -110.5, y: 28.5}
+        - {x: -104.5, y: 53.5}
+        - {x: -89.49999, y: 70.5}
+        - {x: -61.49999, y: 95.5}
+        - {x: -53.49999, y: 103.5}
+        - {x: -36.49999, y: 104.5}
+        - {x: -30.49999, y: 110.5}
+        - {x: 29.50001, y: 110.5}
+        - {x: 44.50001, y: 105.5}
+        - {x: 54.5, y: 101.5}
+        - {x: 68.50001, y: 95.5}
+        - {x: 94.50001, y: 69.5}
+        - {x: 94.50001, y: 59.5}
+        - {x: 102.5, y: 53.5}
+        - {x: 103.5, y: 44.5}
+        - {x: 110.5, y: 37.5}
+        - {x: 110.5, y: -16.5}
+        - {x: 109.5, y: -43.5}
+      physicsShape:
+      - - {x: 96.50001, y: -49.5}
+        - {x: 104.5, y: -32.5}
+        - {x: 107.5, y: -17.5}
+        - {x: 107.5, y: 13.5}
+        - {x: 104.5, y: 30.5}
+        - {x: 98.50001, y: 46.5}
+        - {x: 85.50001, y: 66.5}
+        - {x: 79.50001, y: 72.5}
+        - {x: 68.5, y: 82.5}
+        - {x: 57.50001, y: 90.5}
+        - {x: 47.5, y: 95.5}
+        - {x: 28.50001, y: 103.5}
+        - {x: 16.50001, y: 105.5}
+        - {x: -18.49999, y: 105.5}
+        - {x: -48.49999, y: 95.5}
+        - {x: -66.49999, y: 83.5}
+        - {x: -86.49999, y: 61.49999}
+        - {x: -96.49998, y: 44.5}
+        - {x: -105.5, y: 17.5}
+        - {x: -105.5, y: -16.5}
+        - {x: -102.5, y: -29.5}
+        - {x: -99.49999, y: -41.5}
+        - {x: -91.49999, y: -57.5}
+        - {x: -72.49999, y: -79.5}
+        - {x: -57.49999, y: -90.5}
+        - {x: -49.49999, y: -95.5}
+        - {x: -38.49999, y: -101.5}
+        - {x: -18.49999, y: -107.5}
+        - {x: 17.50001, y: -107.5}
+        - {x: 39.50001, y: -102.5}
+        - {x: 68.5, y: -86.5}
+        - {x: 91.50001, y: -60.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aa3be0dc55433da06a3c1e9373bf0f
+      internalID: 21300046
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 905
+        width: 290
+        height: 267
+      alignment: 9
+      pivot: {x: 0.4689655, y: 0.4531835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -142, y: -33.5}
+        - {x: -145, y: 58.5}
+        - {x: -102, y: 126.5}
+        - {x: 24, y: 133.5}
+        - {x: 114, y: 103.5}
+        - {x: 145, y: 17.5}
+        - {x: 118, y: -75.5}
+        - {x: 73, y: -117.5}
+        - {x: 1, y: -133.5}
+        - {x: -95, y: -110.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8aea5e59734714ac013040816a2473
+      internalID: 21300048
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 909
+        width: 260
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4961538, y: 0.4698795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: -49.5}
+        - {x: -130, y: 23.5}
+        - {x: -101, y: 87.5}
+        - {x: -44, y: 121.5}
+        - {x: 24, y: 124.5}
+        - {x: 79, y: 105.5}
+        - {x: 119, y: 57.5}
+        - {x: 130, y: -4.5}
+        - {x: 118, y: -69.5}
+        - {x: 74, y: -114.5}
+        - {x: 34, y: -124.5}
+        - {x: -37, y: -122.5}
+        - {x: -90, y: -103.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2615a7880eed4d188975afafefdf5574
+      internalID: 21300050
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 314
+        width: 318
+        height: 267
+      alignment: 9
+      pivot: {x: 0.4874214, y: 0.4794008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135, y: -99.5}
+        - {x: -159, y: -36.5}
+        - {x: -158, y: 34.5}
+        - {x: -130, y: 107.5}
+        - {x: -69, y: 133.5}
+        - {x: 42, y: 131.5}
+        - {x: 110, y: 115.5}
+        - {x: 147, y: 76.5}
+        - {x: 159, y: 28.5}
+        - {x: 157, y: -41.5}
+        - {x: 132, y: -101.5}
+        - {x: 66, y: -133.5}
+        - {x: -55, y: -132.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b3676cb1041de97c2e98ed0a5e5ca
+      internalID: 21300052
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 904
+        width: 276
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5036232, y: 0.4939271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129, y: -68.5}
+        - {x: -138, y: -20.5}
+        - {x: -135, y: 44.5}
+        - {x: -119, y: 90.5}
+        - {x: -58, y: 123.5}
+        - {x: 51, y: 123.5}
+        - {x: 105, y: 94.5}
+        - {x: 137, y: 52.5}
+        - {x: 138, y: -43.5}
+        - {x: 98, y: -93.5}
+        - {x: 41, y: -121.5}
+        - {x: -43, y: -123.5}
+        - {x: -105, y: -100.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c50ab1b87ee4e8c97075e3e4331de18
+      internalID: 21300054
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 599
+        width: 283
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4876325, y: 0.5075188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114.5, y: -78}
+        - {x: -141.5, y: 1}
+        - {x: -118.5, y: 99}
+        - {x: -49.5, y: 131}
+        - {x: 50.5, y: 133}
+        - {x: 112.5, y: 92}
+        - {x: 141.5, y: 2}
+        - {x: 122.5, y: -77}
+        - {x: 45.5, y: -133}
+        - {x: -57.5, y: -132}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e8063ee2c41659aeb429b4fdc41df
+      internalID: 21300056
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_26
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 607
+        width: 285
+        height: 261
+      alignment: 9
+      pivot: {x: 0.4912281, y: 0.48659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140.5, y: -55.5}
+        - {x: -142.5, y: 56.5}
+        - {x: -85.5, y: 118.5}
+        - {x: 13.5, y: 130.5}
+        - {x: 101.5, y: 110.5}
+        - {x: 136.5, y: 52.5}
+        - {x: 142.5, y: -31.5}
+        - {x: 104.5, y: -111.5}
+        - {x: -2.5, y: -130.5}
+        - {x: -88.5, y: -117.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e78eb7168d420aabf1e4424b32f374
+      internalID: 21300058
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_32
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 310
+        width: 309
+        height: 269
+      alignment: 9
+      pivot: {x: 0.4822007, y: 0.4907063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -148.5, y: -50.5}
+        - {x: -154.5, y: 29.5}
+        - {x: -115.5, y: 110.5}
+        - {x: -58.5, y: 130.5}
+        - {x: 33.5, y: 134.5}
+        - {x: 117.5, y: 123.5}
+        - {x: 154.5, y: 39.5}
+        - {x: 153.5, y: -51.5}
+        - {x: 101.5, y: -117.5}
+        - {x: -3.5, y: -134.5}
+        - {x: -108.5, y: -115.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d6a6a7e56e4489855827ecd4f6ee9a
+      internalID: 21300060
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 606
+        width: 276
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.5203252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: -39.00001}
+        - {x: -138, y: 46.99999}
+        - {x: -93, y: 106}
+        - {x: -13, y: 123}
+        - {x: 78, y: 117}
+        - {x: 129, y: 67.99999}
+        - {x: 138, y: -7.000008}
+        - {x: 117, y: -81.00001}
+        - {x: 57, y: -121}
+        - {x: -35, y: -123}
+        - {x: -112, y: -95.00001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0d5aa6ab0e49798c066c2ab8580f7f
+      internalID: 21300062
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIconsSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 607
+        width: 287
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.4884615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.5, y: -115}
+        - {x: -143.5, y: -17}
+        - {x: -109.5, y: 94}
+        - {x: -25.5, y: 130}
+        - {x: 78.5, y: 126}
+        - {x: 143.5, y: 58}
+        - {x: 135.5, y: -43}
+        - {x: 100.5, y: -126}
+        - {x: -17.5, y: -130}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fbd6899000473b8c84496f2ade8c3e
+      internalID: 21300064
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
